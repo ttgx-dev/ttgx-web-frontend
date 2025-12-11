@@ -1,0 +1,18 @@
+body {
+    /* https://grabient.com/HQDgbATANMCcDM8oEZgAYwBYYTGnA7ATJhAKwzwGw5lg7whSbDJ7OvzQvIERA */
+    background: linear-gradient(180deg, #e7ffff 0.000%, #ffffff 100.000%);
+
+}
+
+.hextra-card {
+    background-color: #FFFFFF7F;
+}
+
+.hextra-footer {
+    background-color: #FFFFFF7F;
+}
+
+/* Hide search until we have actual pages to search */
+.hextra-search-input {
+    display: none;
+}

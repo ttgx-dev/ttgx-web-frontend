@@ -1,0 +1,84 @@
+baseURL: https://ttgexpo.com/
+languageCode: en-us
+title: Twin Cities Tabletop Games Expo
+theme: hextra
+enableGitInfo: true
+
+caches:
+  images:
+    dir: ":cacheDir/images"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+
+menu:
+  main:
+    - name: Tickets
+      weight: 1
+      url: /#tickets
+      params:
+        type: link
+    - name: Exhibitors
+      weight: 2
+      url: /#exhibitors
+      params:
+        type: link
+    - name: Activities
+      weight: 3
+      url: /#activities
+      params:
+        type: link
+    - name: Volunteers
+      weight: 3
+      url: /#volunteers
+      params:
+        type: link
+    - name: Contact
+      weight: 4
+      url: mailto:contact@ttgexpo.com
+      params:
+        type: link
+  sidebar:
+    - name: Tickets
+      weight: 1
+      url: /#tickets
+      params:
+        type: link
+    - name: Exhibitors
+      weight: 2
+      url: /#exhibitors
+      params:
+        type: link
+    - name: Activities
+      weight: 3
+      url: /#activities
+      params:
+        type: link
+    - name: Volunteers
+      weight: 3
+      url: /#volunteers
+      params:
+        type: link
+
+params:
+  externalLinkDecoration: true
+  displayUpdatedDate: true
+  dateFormat: "January 2, 2006"
+  navbar:
+    displayTitle: false
+    displayLogo: true
+    logo:
+      path: favicon.svg
+      link: /
+      width: 40
+      height: 40
+  search:
+    enable: false
+
+  footer:
+    displayCopyright: true
+    displayPoweredBy: false
