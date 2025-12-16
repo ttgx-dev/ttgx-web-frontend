@@ -78,6 +78,9 @@ params:
       height: 40
   search:
     enable: false
+  theme:
+    default: light
+    displayToggle: false
 
   footer:
     displayCopyright: true
