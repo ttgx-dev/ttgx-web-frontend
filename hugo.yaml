@@ -17,52 +17,43 @@ markup:
 
 menu:
   main:
-    - name: Tickets
+    - name: Home
       weight: 1
-      url: /#tickets
+      url: /
       params:
         type: link
     - name: Exhibitors
       weight: 2
-      url: /#exhibitors
+      url: /exhibitors
       params:
         type: link
-    - name: Activities
-      weight: 3
-      url: /#activities
-      params:
-        type: link
-    - name: Volunteers
-      weight: 3
-      url: /#volunteers
-      params:
-        type: link
-    - name: Contact
-      weight: 4
-      url: mailto:contact@ttgexpo.com
-      params:
-        type: link
-  sidebar:
-    - name: Tickets
-      weight: 1
-      url: /#tickets
-      params:
-        type: link
-    - name: Exhibitors
+    - name: Attendees
       weight: 2
-      url: /#exhibitors
-      params:
-        type: link
-    - name: Activities
-      weight: 3
-      url: /#activities
+      url: /attendees
       params:
         type: link
     - name: Volunteers
-      weight: 3
-      url: /#volunteers
+      weight: 2
+      url: /volunteers
       params:
         type: link
+    - name: About Us
+      weight: 3
+      url: /about-us
+      params:
+        type: link
+    # - name: Tickets
+    #   weight: 3
+    #   url: https://tabletop.events/conventions/twin-cities-tabletop-games-expo
+    #   params:
+    #     type: link
+    #     icon: external-link
+  # sidebar:
+  #   - name: ↗ Tickets
+  #     url: https://tabletop.events/conventions/twin-cities-tabletop-games-expo
+  #     params:
+  #       type: link
+  #       icon: external-link
 
 params:
   externalLinkDecoration: true
@@ -85,3 +76,7 @@ params:
   footer:
     displayCopyright: true
     displayPoweredBy: false
+
+services:
+  googleAnalytics:
+    ID: G-V3XQZW17LE

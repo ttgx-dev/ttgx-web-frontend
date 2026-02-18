@@ -12,63 +12,27 @@ toc: false
   Twin Cities Tabletop Games Expo
 {{< /hextra/hero-headline >}}
 {{< hextra/hero-subtitle >}}
-  Spring 2027 | Minnesota
+  April 16th - 18th, 2027 | Brooklyn Center, MN
 {{< /hextra/hero-subtitle >}}
 
-{{< cards cols="3" >}}
-  {{< card title="Buy Games" subtitle="Games and goods offered by exhibitors." image="/images/buy-games.png" link="#exhibitors" >}}
-  {{< card title="Play Games" subtitle="An open library of boardgames to enjoy." image="/images/boardgame.png" link="#game-library" >}}
-{{< /cards >}}
+An annual tabletop gaming convention featuring a large exhibit hall with local game publishers, a huge open play game library, organized gaming events, and more!
 
-## About
-
-Twin Cities Tabletop Games Expo is a new convention that will be coming to the Twin Cities area in spring 2027. It will feature an exhibit hall with local publishers, scheduled events, and more!
+![](/images/banner-wide.png)
 
 ## Tickets
 
-{{< callout >}}
+{{< callout type="warning" icon="bell" >}}
   <a data-formkit-toggle="0ab4df4aaa" href="https://ttgexpo.kit.com/0ab4df4aaa">Click to get notified when tickets go on sale.</a> 
 {{< /callout >}}
 
 <br/>
-{{< hextra/hero-button text="Tickets Coming Soon" style="background: grey" disabled=true link="/#tickets" >}}
-
-## Socials
-
-{{< cards >}}
-  {{< card link="https://discord.gg/uEZ8jdZC5v" title="Discord" icon="discord" >}}
-  {{< card link="https://bsky.app/profile/ttgexpo.bsky.social" title="Bluesky" icon="bluesky" >}}
-  {{< card link="https://www.facebook.com/ttgexpo/" title="Facebook" icon="facebook" >}}
-  {{< card link="https://www.instagram.com/ttgexpo/" title="Instagram" icon="instagram" >}}
-  {{< card link="https://x.com/ttgexpo" title="Twitter" icon="twitter" >}}
-{{< /cards >}}
+{{< hextra/hero-button text="Tickets Coming Soon" style="background: grey" disabled=true >}}
 
 ## Exhibitors
 
 {{< cards >}}
-  {{< card title="Exhibitor Interest" subtitle="Help shape the exhibitor experience by filling out this short survey." icon="document-report" image="/images/exhibitors.png" link="https://forms.gle/QPrnGKbm45TmEun99" >}}
-{{< /cards >}}
-
-{{< callout >}}
-  We're still working to finalize our exhibitor list... Stay tuned!
-{{< /callout >}}
-
-## Activities
-
-{{< cards >}}
-  {{< card title="Attendee Interest" subtitle="Tell us what you'd like to see at the event by filling out this short survey." icon="document-report" image="/images/attendees.png" link="https://forms.gle/AZonfhGZXNVSALNs7" >}}
-{{< /cards >}}
-
-### Game Library
-
-{{< callout >}}
-  We're still working on stocking our library... More to come!
-{{< /callout >}}
-
-## Volunteers
-
-{{< cards >}}
-  {{< card title="Volunteer Interest" subtitle="Help shape the event, and bring it to life by volunteering your time." icon="document-report" image="/images/volunteers.png" link="https://forms.gle/AZonfhGZXNVSALNs7" >}}
+  {{< card title="Apply To Exhibit" subtitle="Request a booth in our exhibit hall by filling out this application." icon="document-report" image="/images/exhibitors.png" link="https://tabletop.events/conventions/twin-cities-tabletop-games-expo/exhibitors/apply" >}}
+  {{< card title="See Exhibitors" icon="eye" subtitle="See which exhibitors are bringing their games and goods to the exhibit hall." image="/images/buy-games.png" link="/exhibitors#attending-exhibitors" >}}
 {{< /cards >}}
 
 <script async data-uid="0ab4df4aaa" src="https://ttgexpo.kit.com/0ab4df4aaa/index.js"></script>
