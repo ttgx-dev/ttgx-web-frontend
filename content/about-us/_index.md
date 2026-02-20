@@ -24,7 +24,7 @@ Email us at <a href="mailto:contact@ttgexpo.com" target="_blank">contact@ttgexpo
 This is event is organized by Trove Expo Group, LLC. Originally founded by Jeremy Geenen, Thomas Hagen, and Trevor Kirchner with the sole mission of bringing an exhibitor focused tabletop gaming event to the Twin Cities.
 
 {{< cards >}}
-  {{< card title="Jeremy Geenen" image="images/jeremy.png" subtitle="Strategic Retail Analytics by day. Part-owner of publisher Sophisticated Cerberus Games." >}}
-  {{< card title="Thomas Hagen" image="images/thomas.png" subtitle="Software Engineer by day. Volunteer director for Minnestar, a local technology and business non-profit. Hobbyist board game designer." >}}
-  {{< card title="Trevor Kirchner" image="images/trevor.png" subtitle="Software Engineer by day. Volunteer lead for 2D Con’s Indie Island. Volunteer lead for Protospiel MN. Hobbyist board game and video game designer." >}}
+  {{< card title="Jeremy Geenen" image="images/jeremy.webp" subtitle="Strategic Retail Analytics by day. Part-owner of publisher Sophisticated Cerberus Games." >}}
+  {{< card title="Thomas Hagen" image="images/thomas.webp" subtitle="Software Engineer by day. Volunteer director for Minnestar, a local technology and business non-profit. Hobbyist board game designer." >}}
+  {{< card title="Trevor Kirchner" image="images/trevor.webp" subtitle="Software Engineer by day. Volunteer lead for 2D Con’s Indie Island. Volunteer lead for Protospiel MN. Hobbyist board game and video game designer." >}}
 {{< /cards >}}

@@ -17,7 +17,7 @@ toc: false
 
 An annual tabletop gaming convention featuring a large exhibit hall with local game publishers, a huge open play game library, organized gaming events, and more!
 
-![](/images/banner-wide.png)
+![](/images/banner-wide.webp)
 
 ## Tickets
 
@@ -31,8 +31,8 @@ An annual tabletop gaming convention featuring a large exhibit hall with local g
 ## Exhibitors
 
 {{< cards >}}
-  {{< card title="Apply To Exhibit" subtitle="Request a booth in our exhibit hall by filling out this application." icon="document-report" image="/images/exhibitors.png" link="https://tabletop.events/conventions/twin-cities-tabletop-games-expo/exhibitors/apply" >}}
-  {{< card title="See Exhibitors" icon="eye" subtitle="See which exhibitors are bringing their games and goods to the exhibit hall." image="/images/buy-games.png" link="/exhibitors#attending-exhibitors" >}}
+  {{< card title="Apply To Exhibit" subtitle="Request a booth in our exhibit hall by filling out this application." icon="document-report" image="/images/exhibitors.webp" link="https://tabletop.events/conventions/twin-cities-tabletop-games-expo/exhibitors/apply" >}}
+  {{< card title="See Exhibitors" icon="eye" subtitle="See which exhibitors are bringing their games and goods to the exhibit hall." image="/images/buy-games.webp" link="/exhibitors#attending-exhibitors" >}}
 {{< /cards >}}
 
 <script async data-uid="0ab4df4aaa" src="https://ttgexpo.kit.com/0ab4df4aaa/index.js"></script>
