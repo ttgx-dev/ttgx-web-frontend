@@ -26,5 +26,5 @@ This is event is organized by Trove Expo Group, LLC. Originally founded by Jerem
 {{< cards >}}
   {{< card title="Jeremy Geenen" image="images/jeremy.webp" subtitle="Strategic Retail Analytics by day. Part-owner of publisher Sophisticated Cerberus Games." >}}
   {{< card title="Thomas Hagen" image="images/thomas.webp" subtitle="Software Engineer by day. Volunteer director for Minnestar, a local technology and business non-profit. Hobbyist board game designer." >}}
-  {{< card title="Trevor Kirchner" image="images/trevor.webp" subtitle="Software Engineer by day. Volunteer lead for 2D Con’s Indie Island. Volunteer lead for Protospiel MN. Hobbyist board game and video game designer." >}}
+  {{< card title="Trevor Kirchner" image="images/trevor.webp" subtitle="Software Engineer by day. Volunteer for 2D Con’s Indie Island & Protospiel MN. Board game and video game designer." >}}
 {{< /cards >}}
