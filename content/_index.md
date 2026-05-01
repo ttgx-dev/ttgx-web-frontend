@@ -22,7 +22,7 @@ An annual tabletop gaming convention featuring a large exhibit hall with local g
 ## Tickets
 
 {{< callout type="warning" icon="bell" >}}
-  <a data-formkit-toggle="0ab4df4aaa" href="https://ttgexpo.kit.com/0ab4df4aaa">Click to get notified when tickets go on sale.</a> 
+  <a onclick="showEmail()">Click to get notified when tickets go on sale.</a> 
 {{< /callout >}}
 
 <br/>
@@ -35,4 +35,14 @@ An annual tabletop gaming convention featuring a large exhibit hall with local g
   {{< card title="See Exhibitors" icon="eye" subtitle="See which exhibitors are bringing their games and goods to the exhibit hall." image="/images/buy-games.webp" link="/exhibitors#attending-exhibitors" >}}
 {{< /cards >}}
 
-<script async data-uid="0ab4df4aaa" src="https://ttgexpo.kit.com/0ab4df4aaa/index.js"></script>
+
+<script>
+  function showEmail() {
+    var scriptTag = document.createElement('script');
+    scriptTag.src = "https://subscribe-forms.beehiiv.com/v3/loader.js";
+    scriptTag.async = true;
+    scriptTag.setAttribute("data-beehiiv-form", "8d32bfa1-4359-4359-982f-ddd7341852dc");
+
+    document.body.appendChild(scriptTag);
+  }
+</script>
