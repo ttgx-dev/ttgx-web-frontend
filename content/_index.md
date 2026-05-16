@@ -22,7 +22,10 @@ An annual tabletop gaming convention featuring a large exhibit hall with local g
 ## Tickets
 
 {{< callout type="warning" icon="bell" >}}
-  <a onclick="showEmail()">Click to get notified when tickets go on sale.</a> 
+  <p>Subscribe to get notified when tickets go on sale.</p> 
+  <br/>
+  <script async src="https://subscribe-forms.beehiiv.com/v3/loader.js" data-beehiiv-form="8d32bfa1-4359-4359-982f-ddd7341852dc"></script>
+  <br/>
 {{< /callout >}}
 
 <br/>
@@ -34,15 +37,3 @@ An annual tabletop gaming convention featuring a large exhibit hall with local g
   {{< card title="Apply To Exhibit" subtitle="Request a booth in our exhibit hall by filling out this application." icon="document-report" image="/images/exhibitors.webp" link="https://tabletop.events/conventions/twin-cities-tabletop-games-expo/exhibitors/apply" >}}
   {{< card title="See Exhibitors" icon="eye" subtitle="See which exhibitors are bringing their games and goods to the exhibit hall." image="/images/buy-games.webp" link="/exhibitors#attending-exhibitors" >}}
 {{< /cards >}}
-
-
-<script>
-  function showEmail() {
-    var scriptTag = document.createElement('script');
-    scriptTag.src = "https://subscribe-forms.beehiiv.com/v3/loader.js";
-    scriptTag.async = true;
-    scriptTag.setAttribute("data-beehiiv-form", "8d32bfa1-4359-4359-982f-ddd7341852dc");
-
-    document.body.appendChild(scriptTag);
-  }
-</script>
