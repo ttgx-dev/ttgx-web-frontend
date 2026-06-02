@@ -42,18 +42,18 @@ menu:
       url: /about-us
       params:
         type: link
-    # - name: Tickets
-    #   weight: 3
-    #   url: https://tabletop.events/conventions/twin-cities-tabletop-games-expo
-    #   params:
-    #     type: link
-    #     icon: external-link
-  # sidebar:
-  #   - name: ↗ Tickets
-  #     url: https://tabletop.events/conventions/twin-cities-tabletop-games-expo
-  #     params:
-  #       type: link
-  #       icon: external-link
+    - name: Tickets
+      weight: 4
+      url: https://tabletop.events/conventions/twin-cities-tabletop-games-expo
+      params:
+        type: link
+        icon: external-link
+  sidebar:
+    - name: ↗ Tickets
+      url: https://tabletop.events/conventions/twin-cities-tabletop-games-expo
+      params:
+        type: link
+        icon: external-link
 
 params:
   externalLinkDecoration: true

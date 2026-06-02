@@ -29,11 +29,17 @@ An annual tabletop gaming convention featuring a large exhibit hall with local g
 {{< /callout >}}
 
 <br/>
-{{< hextra/hero-button text="Tickets Coming Soon" style="background: grey" disabled=true >}}
+{{< hextra/hero-button text="Tickets Coming Soon" link="https://tabletop.events/conventions/twin-cities-tabletop-games-expo" >}}
 
 ## Exhibitors
 
 {{< cards >}}
   {{< card title="Apply To Exhibit" subtitle="Request a booth in our exhibit hall by filling out this application." icon="document-report" image="/images/exhibitors.webp" link="https://tabletop.events/conventions/twin-cities-tabletop-games-expo/exhibitors/apply" >}}
   {{< card title="See Exhibitors" icon="eye" subtitle="See which exhibitors are bringing their games and goods to the exhibit hall." image="/images/buy-games.webp" link="/exhibitors#attending-exhibitors" >}}
+{{< /cards >}}
+
+## Sponsors
+
+{{< cards >}}
+  {{< card title="Office Dog Games" image="/images/exhibitors/office dog.png" link="http://officedoggames.com" method="Resize" options="600x q80 webp" >}}
 {{< /cards >}}
