@@ -43,3 +43,5 @@ An annual tabletop gaming convention featuring a large exhibit hall with local g
 {{< cards >}}
   {{< card title="Office Dog Games" image="/images/exhibitors/office dog.png" link="http://officedoggames.com" method="Resize" options="600x q80 webp" >}}
 {{< /cards >}}
+
+<script>function loadScript(a){var b=document.getElementsByTagName("head")[0],c=document.createElement("script");c.type="text/javascript",c.src="https://tracker.metricool.com/resources/be.js",c.onreadystatechange=a,c.onload=a,b.appendChild(c)}loadScript(function(){beTracker.t({hash:"a4819dfd430901a19998168d4484ef62"})});</script>
