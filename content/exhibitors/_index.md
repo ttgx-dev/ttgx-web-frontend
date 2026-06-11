@@ -21,7 +21,7 @@ To learn more about exhibiting at TTGX [Download our Exhibitor Packet](https://d
 
 {{< cards cols="2" >}}
   {{< card title="Adam's Apple Games" image="/images/exhibitors/adams apple games.png" link="https://adamsapplegames.com" method="Resize" options="600x q80 webp" >}}
-  {{< card title="BrightBard" image="/images/exhibitors/brightbard.png" link="https://bsky.app/profile/brightbard.bsky.social" method="Resize" options="600x q80 webp" >}}
+  {{< card title="BrightBard" image="/images/exhibitors/brightbard.jpg" link="https://bsky.app/profile/brightbard.bsky.social" method="Resize" options="600x q80 webp" >}}
   {{< card title="Dead Alive Games" image="/images/exhibitors/dead alive games.png" link="https://www.deadalivegames.com" method="Resize" options="600x q80 webp" >}}
   {{< card title="Earthborne Games" image="/images/exhibitors/earthborne.png" link="https://earthbornegames.com" method="Resize" options="600x q80 webp" >}}
   {{< card title="Looking For Greatness LLC" image="/images/exhibitors/final strike.png" link="https://magichammer.club" method="Resize" options="600x q80 webp" >}}
