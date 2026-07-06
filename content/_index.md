@@ -27,6 +27,22 @@ An annual tabletop gaming convention featuring a large exhibit hall with local g
 
 {{< hextra/hero-button text="Tickets Coming Soon" link="https://tabletop.events/conventions/twin-cities-tabletop-games-expo" >}}
 
+<hr/>
+
+Come join TTGX in connecting with the culture behind the scenes: publishers and designers of your favorite games, local indies in your city, and the board gaming communities that tie it all together.
+
+Minnesota and the Midwest are powerhouses of board game business and culture, hosting world-class publishers, unbeatable conventions, and a long and storied history of playing tabletop games. TTGX brings them front and center.
+
+Join us for scheduled and free play board games, card games, big-game events, raffles, local board game communities, and a one-of-a-kind exhibitor hall packed with local publishers big and small!
+
+## Important Dates
+
+* **Exhibitor Applications Open** - February 20th, 2026
+* **Volunteer Applications Open** - April 17th, 2026
+* **Event Submissions Open** - September 18th, 2026
+* **Event Registrations Open** - January 15th, 2027
+* **First Day of Expo** - April 16th, 2027
+
 ## Exhibitors
 
 {{< cards >}}
