@@ -21,14 +21,10 @@ An annual tabletop gaming convention featuring a large exhibit hall with local g
 
 ## Tickets
 
-{{< callout type="warning" icon="bell" >}}
-  <p>Subscribe to get notified when tickets go on sale.</p> 
-  <br/>
-  <script async src="https://subscribe-forms.beehiiv.com/v3/loader.js" data-beehiiv-form="8d32bfa1-4359-4359-982f-ddd7341852dc"></script>
-  <br/>
-{{< /callout >}}
+<iframe width="540" height="225" src="https://bd3f8dd0.sibforms.com/v2/serve/MUIFAHV1FZ03MHiKn_2tr1N6T4M_S5qvoPE3_bPYmYpDdIGwhqAMIqgl692e9544551c-nUCa4P1GIuggux9KvenC_K0Iu0kM1_WbgGHEQ_19Mu2C8xPA5rVEJ5Unvp17Nv5CEFRMIoWrjES9XeRJ6FScl1aMOyjAhpLb429Y-7Qy-hq_rG3XY_8vftf14RR2QP9cTv3T7dckG9YBQ==" frameborder="0" scrolling="no" allowfullscreen style="overflow:hidden;display: block;margin-left: auto;margin-right: auto;padding: 0;max-width: 100%;"></iframe>
 
-<br/>
+<p>Tickets will be available for purchase Summer 2026.<p>
+
 {{< hextra/hero-button text="Tickets Coming Soon" link="https://tabletop.events/conventions/twin-cities-tabletop-games-expo" >}}
 
 ## Exhibitors
