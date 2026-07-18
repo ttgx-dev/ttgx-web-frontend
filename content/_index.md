@@ -37,8 +37,8 @@ Join us for scheduled and free play board games, card games, big-game events, ra
 
 ## Important Dates
 
-**✅ Exhibitor Applications Open** - February 20th, 2026\
-**✅ Volunteer Applications Open** - April 17th, 2026\
+**✅ Exhibitor Applications Open** - February 20th, 2026 [View](https://tabletop.events/conventions/twin-cities-tabletop-games-expo/exhibitors/apply)\
+**✅ Volunteer Applications Open** - April 17th, 2026 [View](https://forms.gle/AZonfhGZXNVSALNs7)\
 🕒 Badge Sales Open - July 24th, 2026\
 🕒 Event Submissions Open - July 24th, 2026\
 🕒 Event Registrations Open - January 15th, 2027\
