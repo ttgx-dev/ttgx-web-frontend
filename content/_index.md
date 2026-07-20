@@ -6,6 +6,10 @@ toc: false
 
 <head>
     <link rel="stylesheet" href="/styles.css">
+    <link rel="preconnect" href="https://assets.brevo.com" crossorigin="">
+    <link rel="preconnect" href="https://sibforms.com" crossorigin="">
+    <link rel="preconnect" href="https://bd3f8dd0.sibforms.com" crossorigin="">
+    <link rel="preconnect" href="https://tracker.metricool.com" crossorigin="">
 </head>
 
 {{< hextra/hero-headline >}}
