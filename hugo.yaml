@@ -48,12 +48,6 @@ menu:
       params:
         type: link
         icon: external-link
-  sidebar:
-    - name: ↗ Tickets
-      url: https://tabletop.events/conventions/twin-cities-tabletop-games-expo
-      params:
-        type: link
-        icon: external-link
 
 params:
   externalLinkDecoration: true
