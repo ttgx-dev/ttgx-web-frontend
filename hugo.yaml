@@ -44,7 +44,7 @@ menu:
         type: link
     - name: Tickets
       weight: 4
-      url: https://tabletop.events/conventions/twin-cities-tabletop-games-expo
+      url: https://tabletop.events/conventions/twin-cities-tabletop-games-expo/badgetypes
       params:
         type: link
         icon: external-link

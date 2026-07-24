@@ -28,9 +28,7 @@ An annual tabletop gaming convention featuring a large exhibit hall with local g
 
 <iframe width="540" height="225" src="https://bd3f8dd0.sibforms.com/v2/serve/MUIFAHV1FZ03MHiKn_2tr1N6T4M_S5qvoPE3_bPYmYpDdIGwhqAMIqgl692e9544551c-nUCa4P1GIuggux9KvenC_K0Iu0kM1_WbgGHEQ_19Mu2C8xPA5rVEJ5Unvp17Nv5CEFRMIoWrjES9XeRJ6FScl1aMOyjAhpLb429Y-7Qy-hq_rG3XY_8vftf14RR2QP9cTv3T7dckG9YBQ==" frameborder="0" scrolling="no" allowfullscreen style="overflow:hidden;display: block;margin-left: auto;margin-right: auto;padding: 0;max-width: 100%;"></iframe>
 
-<p>Tickets will be available for purchase Friday July 24th, 2026.<p>
-
-{{< hextra/hero-button text="Tickets Coming 7/24" link="https://tabletop.events/conventions/twin-cities-tabletop-games-expo" >}}
+{{< hextra/hero-button text="Buy Tickets" link="https://tabletop.events/conventions/twin-cities-tabletop-games-expo/badgetypes" >}}
 
 <hr/>
 
@@ -42,9 +40,9 @@ Join us for scheduled and free play board games, card games, big-game events, ra
 
 ## Important Dates
 
-**✅ Exhibitor Applications Open** - February 20th, 2026 [View](https://tabletop.events/conventions/twin-cities-tabletop-games-expo/exhibitors/apply)\
-**✅ Volunteer Applications Open** - April 17th, 2026 [View](https://forms.gle/AZonfhGZXNVSALNs7)\
-🕒 Badge Sales Open - July 24th, 2026\
+**✅ Exhibitor Applications Open** - [View](https://tabletop.events/conventions/twin-cities-tabletop-games-expo/exhibitors/apply)\
+**✅ Volunteer Applications Open** - [View](https://forms.gle/AZonfhGZXNVSALNs7)\
+**✅ Badge Sales Open** - [View](https://tabletop.events/conventions/twin-cities-tabletop-games-expo/badgetypes)\
 🕒 Event Submissions Open - July 24th, 2026\
 🕒 Event Registrations Open - January 15th, 2027\
 🥳 First Day of Expo - April 16th, 2027
