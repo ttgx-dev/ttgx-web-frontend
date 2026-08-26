@@ -16,5 +16,5 @@ type: blog
 ## Perks
 
 {{< callout icon="sparkles" >}}
-  Volunteers earn free tickets to the event... and more!
+  Volunteers earn free badges to the event... and more!
 {{< /callout >}}
