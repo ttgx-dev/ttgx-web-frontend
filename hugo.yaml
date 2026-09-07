@@ -42,8 +42,13 @@ menu:
       url: /about-us
       params:
         type: link
-    - name: Badges
+    - name: News
       weight: 4
+      url: /news
+      params:
+        type: link
+    - name: Buy Badges
+      weight: 5
       url: https://tabletop.events/conventions/twin-cities-tabletop-games-expo/badgetypes
       params:
         type: link
