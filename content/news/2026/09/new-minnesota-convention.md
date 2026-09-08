@@ -51,7 +51,7 @@ With major players like:
 - [Asmodee](https://store.asmodee.com/)
 - [Chip Theory Games](https://chiptheorygames.com/)
 - [Leder Games](https://ledergames.com/)
-- [Floodgate Games](https://floodgate.games/) (close-enough)
+- [Floodgate Games](https://floodgate.games/)
 
 Those already make up a sizeable portion of many boardgame shelves. Then you add in the [30+ mid-sized publishers](https://boardgamegeek.com/geeklist/285316/board-game-publishers-in-minnesota) and the several hundred indepedent designers across events like: [Design Days](https://discord.gg/EjDwUAATxf), [Protospiel MN](https://tabletop.events/conventions/protospiel-mn-2027), [Break My Game](https://www.eventbrite.com/e/break-my-game-playtesting-twin-cities-mn-2dhq-registration-1016794528807), and [IGDATC](https://www.eventbrite.com/o/igda-twin-cities-751587541), and you've got a serious number of boardgames coming out of Minnesota.
 
