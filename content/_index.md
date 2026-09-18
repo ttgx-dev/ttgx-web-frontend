@@ -38,7 +38,7 @@ Come join TTGX in connecting with the culture behind the scenes: publishers and 
 
 Minnesota and the Midwest are powerhouses of board game business and culture, hosting world-class publishers, unbeatable conventions, and a long and storied history of playing tabletop games. TTGX brings them front and center.
 
-Join us for scheduled and free play board games, card games, big-game events, raffles, local board game communities, and a one-of-a-kind exhibitor hall packed with local publishers big and small!
+Join us for scheduled and free play board games, card games, big-game events, giveaways, local board game communities, and a one-of-a-kind exhibitor hall packed with local publishers big and small!
 
 ## Important Dates
 
