@@ -14,14 +14,9 @@ build:
 
 [Visit the Spy Alley Partners website](http://www.spyalley.com)
 
-## About Spy Alley Partners L.L.P.
-
-_Add exhibitor description here._
+Spy Alley Partners publishes board and card games, including Spy Alley.
 
 ## Social Media
 
-_Add social media links here._
+Spy Alley Partners L.L.P. is not currently active on social media.
 
-## Top Games
-
-_Add featured games, images, and BoardGameGeek links here._

@@ -14,14 +14,11 @@ build:
 
 [Visit the Looking For Greatness website](https://magichammer.club)
 
-## About Looking For Greatness LLC
-
-_Add exhibitor description here._
+Final Strike is a game published by Looking For Greatness LLC, a small Minnesota-based company working to promote games created by Minnesota game designers.
 
 ## Social Media
 
-_Add social media links here._
+{{< cards >}}
+  {{< card link="https://magichammerclub.myshopify.com/" title="Online Shop" icon="shopping-cart" >}}
+{{< /cards >}}
 
-## Top Games
-
-_Add featured games, images, and BoardGameGeek links here._

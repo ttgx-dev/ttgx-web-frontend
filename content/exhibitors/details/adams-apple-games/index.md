@@ -14,14 +14,15 @@ build:
 
 [Visit the Adam's Apple Games website](https://adamsapplegames.com)
 
-## About Adam's Apple Games
+Independent board game publisher located in Minneapolis, MN. Creators of Defenders of the Dictionary, Gnomeville, Tatsumi, Planet Unknown, Thrive, Four Humours, Swordcrafters, Truck Off, and much more!
 
-_Add exhibitor description here._
+We love making board games with stunning table presence and creative components that satisfy a wide variety of players, from competitive to cooperative, solo to large group, and families to gamer groups.
 
 ## Social Media
 
-_Add social media links here._
+{{< cards >}}
+  {{< card link="https://twitter.com/adamsapplegames" title="Twitter/X" icon="twitter" >}}
+  {{< card link="https://instagram.com/adamsapplegames" title="Instagram" icon="instagram" >}}
+  {{< card link="https://facebook.com/adamsapplegames" title="Facebook" icon="facebook" >}}
+{{< /cards >}}
 
-## Top Games
-
-_Add featured games, images, and BoardGameGeek links here._

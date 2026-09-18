@@ -12,16 +12,13 @@ build:
 
 <img src="/images/exhibitors/melody%20hollow.png" alt="Melody Hollow" width="240" height="160" style="width: 240px; height: 160px; object-fit: contain;">
 
-[Visit Melody Hollow online](https://www.instagram.com/colorskyeblueart)
+[Visit the Melody Hollow website](https://www.instagram.com/colorskyeblueart)
 
-## About Melody Hollow
-
-_Add exhibitor description here._
+Melody Hollow is a whimsical shop where dragons come to life. Every creation is designed with a playful spirit, featuring charming dragons full of personality, bright colors, and cozy fantasy vibes. Every dragon is hand drawn and original. Whether you are a dragon lover or simply enjoy cute, magical creatures, you will find handcrafted art and treasures sure to make you smile.
 
 ## Social Media
 
-_Add social media links here._
+{{< cards >}}
+  {{< card link="https://www.instagram.com/colorskyeblueart" title="Instagram" icon="instagram" >}}
+{{< /cards >}}
 
-## Top Games
-
-_Add featured games, images, and BoardGameGeek links here._

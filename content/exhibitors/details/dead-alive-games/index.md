@@ -14,14 +14,15 @@ build:
 
 [Visit the Dead Alive Games website](https://www.deadalivegames.com)
 
-## About Dead Alive Games
+Since 2018, Dead Alive Games has aimed to design and publish high quality games that are inclusive and representative of the diverse gaming community they belong to.
 
-_Add exhibitor description here._
+They create bold, thematic games that combine accessible mechanics with imaginative worlds. Their lineup includes Omicron Protocol, Lunar Rush, Cyber Pet Quest, Lunar Skyline, Cat Rescue, and Kittens in Space, with solo play, cooperative adventures, and competitive strategy for gamers of all stripes.
 
 ## Social Media
 
-_Add social media links here._
+{{< cards >}}
+  {{< card link="https://www.facebook.com/deadalivegames" title="Facebook" icon="facebook" >}}
+  {{< card link="https://www.instagram.com/deadalivegames" title="Instagram" icon="instagram" >}}
+  {{< card link="https://www.tiktok.com/@deadalivegames" title="TikTok" >}}
+{{< /cards >}}
 
-## Top Games
-
-_Add featured games, images, and BoardGameGeek links here._

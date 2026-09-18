@@ -12,16 +12,12 @@ build:
 
 <img src="/images/exhibitors/tabletop%20foundry.png" alt="Tabletop Foundry" width="240" height="160" style="width: 240px; height: 160px; object-fit: contain;">
 
-[Visit the Tabletop Foundry store](https://tabletopfoundrystore.etsy.com)
+[Visit the Tabletop Foundry website](https://tabletopfoundrystore.etsy.com)
 
-## About Tabletop Foundry
+Welcome to TableTop Foundry, where your campaign comes to life. Based in Rochester, MN, TableTop Foundry specializes in high-detail resin miniatures designed to elevate tabletop RPG experiences, from single heroes ready for painting to custom monsters for challenging a party.
 
-_Add exhibitor description here._
+TableTop Foundry also builds worlds with complete, ready-to-play campaign modules that include custom maps, stat sheets, and matching miniatures, as well as fully modular, custom-built terrain.
 
 ## Social Media
 
-_Add social media links here._
-
-## Top Games
-
-_Add featured games, images, and BoardGameGeek links here._
+TableTop Foundry is not currently active on social media.

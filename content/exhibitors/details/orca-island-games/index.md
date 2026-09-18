@@ -14,14 +14,11 @@ build:
 
 [Visit the Orca Island Games website](https://www.orcaislandgames.com)
 
-## About Orca Island Games
-
-_Add exhibitor description here._
+Welcome to a world where playful chaos meets clever strategy. Orca Island Games and Mayhem and Delight Games create games designed to spark joy, challenge your mind, and bring families together. They strive to create the games they want to play, full of whimsy, creativity, and personality.
 
 ## Social Media
 
-_Add social media links here._
+{{< cards >}}
+  {{< card link="https://www.instagram.com/orcaislandgames" title="Instagram" icon="instagram" >}}
+{{< /cards >}}
 
-## Top Games
-
-_Add featured games, images, and BoardGameGeek links here._

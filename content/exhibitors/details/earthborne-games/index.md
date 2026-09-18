@@ -14,14 +14,12 @@ build:
 
 [Visit the Earthborne Games website](https://earthbornegames.com)
 
-## About Earthborne Games
-
-_Add exhibitor description here._
+Earthborne Games creates breathtaking tabletop games that prioritize environmental sustainability in every aspect of their creation, from manufacturing to fulfillment. Every Earthborne product is made as sustainably as possible, with unparalleled transparency throughout the process. There is a hopeful future on the horizon that reimagines our relationship with the Earth and the stories we tell on the gaming table, and Earthborne Games is creating it together with its community.
 
 ## Social Media
 
-_Add social media links here._
-
-## Top Games
-
-_Add featured games, images, and BoardGameGeek links here._
+{{< cards >}}
+  {{< card link="https://bsky.app/profile/earthbornegames.bsky.social" title="Bluesky" icon="bluesky" >}}
+  {{< card link="https://www.instagram.com/earthbornegames/" title="Instagram" icon="instagram" >}}
+  {{< card link="https://www.youtube.com/@earthbornegames" title="YouTube" icon="youtube" >}}
+{{< /cards >}}

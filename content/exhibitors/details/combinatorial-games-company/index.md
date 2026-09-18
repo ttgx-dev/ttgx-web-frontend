@@ -14,14 +14,9 @@ build:
 
 [Visit the Combinatarial Games Company website](http://chesscubes.com)
 
-## About Combinatarial Games Company
-
-_Add exhibitor description here._
+Chess Cubes are cube-shaped chess pieces that move like the piece shown on the top of the cube. A Chess Cube can be every different kind of chess piece.
 
 ## Social Media
 
-_Add social media links here._
+Combinatarial Games Company is not currently active on social media.
 
-## Top Games
-
-_Add featured games, images, and BoardGameGeek links here._

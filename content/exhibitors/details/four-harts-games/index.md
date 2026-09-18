@@ -14,14 +14,12 @@ build:
 
 [Visit the Four Harts Games website](https://www.fourhartsgames.com)
 
-## About Four Harts Games
-
-_Add exhibitor description here._
+Four Harts Games is a local Minnesota family-run gaming company. They create and sell items that help fix issues with D&D and other RPG games, along with custom game pieces and Beast In Show, a card deck-building game.
 
 ## Social Media
 
-_Add social media links here._
+{{< cards >}}
+  {{< card link="https://www.facebook.com/FourHartsGames" title="Facebook" icon="facebook" >}}
+  {{< card link="https://www.tiktok.com/@fourhartsgames" title="TikTok" >}}
+{{< /cards >}}
 
-## Top Games
-
-_Add featured games, images, and BoardGameGeek links here._
