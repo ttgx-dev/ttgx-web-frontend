@@ -21,7 +21,7 @@ description: An annual tabletop gaming convention featuring a large exhibit hall
 
 An annual tabletop gaming convention featuring a large exhibit hall with local game publishers, a huge open play game library, organized gaming events, and more!
 
-<img src="/images/banner-wide.webp" alt="Wide image of boardgame boxes" fetchpriority="high" width="100%" />
+{{< asset-image image="images/banner-wide.webp" alt="Wide image of boardgame boxes" fetchpriority="high" >}}
 
 ## Badges
 
@@ -51,8 +51,8 @@ Join us for scheduled and free play board games, card games, big-game events, gi
 ## Exhibitors
 
 {{< cards >}}
-  {{< card title="Apply To Exhibit" subtitle="Request a booth in our exhibit hall by filling out this application." icon="document-report" image="/images/exhibitors.webp" link="https://tabletop.events/conventions/twin-cities-tabletop-games-expo/exhibitors/apply" >}}
-  {{< card title="See Exhibitors" icon="eye" subtitle="See which exhibitors are bringing their games and goods to the exhibit hall." image="/images/buy-games.webp" link="/exhibitors#attending-exhibitors" >}}
+  {{< card title="Apply To Exhibit" subtitle="Request a booth in our exhibit hall by filling out this application." icon="document-report" image="images/exhibitors.webp" link="https://tabletop.events/conventions/twin-cities-tabletop-games-expo/exhibitors/apply" >}}
+  {{< card title="See Exhibitors" icon="eye" subtitle="See which exhibitors are bringing their games and goods to the exhibit hall." image="images/buy-games.webp" link="/exhibitors#attending-exhibitors" >}}
 {{< /cards >}}
 
 ## Sponsors

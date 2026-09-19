@@ -1,0 +1,5 @@
+{{- with resources.Get "images/background.webp" -}}
+<style>
+  body { background-image: url("{{ .RelPermalink }}"); }
+</style>
+{{- end -}}
