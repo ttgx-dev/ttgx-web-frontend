@@ -1,0 +1,43 @@
+{{- if .IsHome -}}
+  {{- $eventImage := "" -}}
+  {{- with resources.Get "images/banner-wide.webp" | fingerprint -}}
+    {{- $eventImage = .Permalink -}}
+  {{- end -}}
+  {{- $organizer := dict
+    "@type" "Organization"
+    "name" "Trove Expo Group, LLC"
+    "url" "https://ttgexpo.com/about-us/"
+    "sameAs" (slice
+      "https://www.facebook.com/ttgexpo/"
+      "https://www.instagram.com/ttgexpo/"
+      "https://bsky.app/profile/ttgexpo.bsky.social"
+    )
+  -}}
+  {{- $event := dict
+    "@type" "Event"
+    "name" "Twin Cities Tabletop Games Expo"
+    "description" "A three-day Minnesota tabletop gaming convention featuring local and Midwest game publishers, a large open-play game library, organized events, and an exhibitor hall."
+    "url" .Permalink
+    "image" (slice $eventImage)
+    "startDate" "2027-04-16"
+    "endDate" "2027-04-18"
+    "eventStatus" "https://schema.org/EventScheduled"
+    "eventAttendanceMode" "https://schema.org/OfflineEventAttendanceMode"
+    "location" (dict
+      "@type" "Place"
+      "name" "Heritage Center of Brooklyn Center"
+      "url" "https://maps.app.goo.gl/MMPdb53cTw2jywzT9"
+      "address" (dict
+        "@type" "PostalAddress"
+        "streetAddress" "6155 Earle Brown Dr"
+        "addressLocality" "Brooklyn Center"
+        "addressRegion" "MN"
+        "postalCode" "55430"
+        "addressCountry" "US"
+      )
+    )
+    "organizer" $organizer
+  -}}
+  {{- $graph := dict "@context" "https://schema.org" "@graph" (slice $event $organizer) -}}
+  <script type="application/ld+json">{{ $graph | jsonify | safeHTML }}</script>
+{{- end -}}

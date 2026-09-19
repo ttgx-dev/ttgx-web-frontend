@@ -82,8 +82,15 @@ jobs:
           hugo \
             --gc \
             --minify \
+            --environment production \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
             --cacheDir "${{ runner.temp }}/hugo_cache"
+      - name: Verify SEO output
+        run: |
+          test -f public/robots.txt
+          grep -q "Sitemap: https://ttgexpo.com/sitemap.xml" public/robots.txt
+          ! grep -R -q "localhost" public
+          ! grep -R -q 'noindex, nofollow' public
       - name: Cache save
         id: cache-save
         uses: actions/cache/save@v4
