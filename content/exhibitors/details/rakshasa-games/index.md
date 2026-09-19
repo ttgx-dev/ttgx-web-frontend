@@ -10,7 +10,7 @@ build:
 
 <head><link rel="stylesheet" href="/styles.css"></head>
 
-<img src="/images/exhibitors/rakshasa%20games.jpg" alt="Rakshasa Games" width="240" height="160" style="width: 240px; height: 160px; object-fit: contain;">
+{{< exhibitor-image image="images/exhibitors/rakshasa games.jpg" alt="Rakshasa Games" >}}
 
 [Visit the Rakshasa Games website](http://witchesquarrel.com)
 

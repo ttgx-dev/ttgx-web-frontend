@@ -10,7 +10,7 @@ build:
 
 <head><link rel="stylesheet" href="/styles.css"></head>
 
-<img src="/images/exhibitors/tabletop%20foundry.png" alt="Tabletop Foundry" width="240" height="160" style="width: 240px; height: 160px; object-fit: contain;">
+{{< exhibitor-image image="images/exhibitors/tabletop foundry.png" alt="Tabletop Foundry" >}}
 
 [Visit the Tabletop Foundry website](https://tabletopfoundrystore.etsy.com)
 

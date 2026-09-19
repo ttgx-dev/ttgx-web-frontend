@@ -10,7 +10,7 @@ build:
 
 <head><link rel="stylesheet" href="/styles.css"></head>
 
-<img src="/images/exhibitors/earthborne.png" alt="Earthborne Games" width="240" height="160" style="width: 240px; height: 160px; object-fit: contain;">
+{{< exhibitor-image image="images/exhibitors/earthborne.png" alt="Earthborne Games" >}}
 
 [Visit the Earthborne Games website](https://earthbornegames.com)
 

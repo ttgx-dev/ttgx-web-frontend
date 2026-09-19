@@ -10,7 +10,7 @@ build:
 
 <head><link rel="stylesheet" href="/styles.css"></head>
 
-<img src="/images/exhibitors/spy%20alley%20partners.jpg" alt="Spy Alley Partners L.L.P." width="240" height="160" style="width: 240px; height: 160px; object-fit: contain;">
+{{< exhibitor-image image="images/exhibitors/spy alley partners.jpg" alt="Spy Alley Partners L.L.P." >}}
 
 [Visit the Spy Alley Partners website](http://www.spyalley.com)
 

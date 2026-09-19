@@ -8,7 +8,6 @@ description: An annual tabletop gaming convention featuring a large exhibit hall
 <head>
     <link rel="stylesheet" href="/styles.css">
     <link rel="preconnect" href="https://assets.brevo.com" crossorigin="">
-    <link rel="preconnect" href="https://sibforms.com" crossorigin="">
     <link rel="preconnect" href="https://bd3f8dd0.sibforms.com" crossorigin="">
     <link rel="preconnect" href="https://tracker.metricool.com" crossorigin="">
 </head>
@@ -22,7 +21,7 @@ description: An annual tabletop gaming convention featuring a large exhibit hall
 
 An annual tabletop gaming convention featuring a large exhibit hall with local game publishers, a huge open play game library, organized gaming events, and more!
 
-<img src="/images/banner-wide.webp" alt="Wide image of boardgame boxes" />
+<img src="/images/banner-wide.webp" alt="Wide image of boardgame boxes" fetchpriority="high" width="100%" />
 
 ## Badges
 
@@ -59,8 +58,8 @@ Join us for scheduled and free play board games, card games, big-game events, gi
 ## Sponsors
 
 {{< cards >}}
-  {{< card title="Office Dog Games" image="/images/exhibitors/office dog.png" link="/exhibitors/details/office-dog-games" method="Resize" options="600x q80 webp" >}}
-  {{< card title="Speedrobo Games" image="/images/exhibitors/speedrobo games.jpg" link="/exhibitors/details/speedrobo-games" method="Resize" options="600x q80 webp" >}}
+  {{< card title="Office Dog Games" image="images/exhibitors/office dog.png" link="/exhibitors/details/office-dog-games" method="Resize" options="600x q80 webp" >}}
+  {{< card title="Speedrobo Games" image="images/exhibitors/speedrobo games.jpg" link="/exhibitors/details/speedrobo-games" method="Resize" options="600x q80 webp" >}}
 {{< /cards >}}
 
 <script>function loadScript(a){var b=document.getElementsByTagName("head")[0],c=document.createElement("script");c.type="text/javascript",c.src="https://tracker.metricool.com/resources/be.js",c.onreadystatechange=a,c.onload=a,b.appendChild(c)}loadScript(function(){beTracker.t({hash:"a4819dfd430901a19998168d4484ef62"})});</script>

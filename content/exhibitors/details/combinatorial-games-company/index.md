@@ -10,7 +10,7 @@ build:
 
 <head><link rel="stylesheet" href="/styles.css"></head>
 
-<img src="/images/exhibitors/combinatorial%20games%20company.png" alt="Combinatarial Games Company" width="240" height="160" style="width: 240px; height: 160px; object-fit: contain;">
+{{< exhibitor-image image="images/exhibitors/combinatorial games company.png" alt="Combinatarial Games Company" >}}
 
 [Visit the Combinatarial Games Company website](http://chesscubes.com)
 

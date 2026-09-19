@@ -10,7 +10,7 @@ build:
 
 <head><link rel="stylesheet" href="/styles.css"></head>
 
-<img src="/images/exhibitors/brightbard.png" alt="BrightBard" width="240" height="160" style="width: 240px; height: 160px; object-fit: contain;">
+{{< exhibitor-image image="images/exhibitors/brightbard.png" alt="BrightBard" >}}
 
 [Visit the BrightBard website](https://bsky.app/profile/brightbard.bsky.social)
 

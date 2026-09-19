@@ -12,7 +12,7 @@ build:
     <link rel="stylesheet" href="/styles.css">
 </head>
 
-<img src="/images/exhibitors/office%20dog.png" alt="Office Dog Games" width="240" height="160" style="width: 240px; height: 160px; object-fit: contain;">
+{{< exhibitor-image image="images/exhibitors/office dog.png" alt="Office Dog Games" >}}
 
 [Visit the Office Dog Games website](https://www.officedoggames.com/)
 

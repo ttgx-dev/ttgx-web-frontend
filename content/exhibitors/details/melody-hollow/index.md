@@ -10,7 +10,7 @@ build:
 
 <head><link rel="stylesheet" href="/styles.css"></head>
 
-<img src="/images/exhibitors/melody%20hollow.png" alt="Melody Hollow" width="240" height="160" style="width: 240px; height: 160px; object-fit: contain;">
+{{< exhibitor-image image="images/exhibitors/melody hollow.png" alt="Melody Hollow" >}}
 
 [Visit the Melody Hollow website](https://www.instagram.com/colorskyeblueart)
 
