@@ -1,4 +1,4 @@
-{{- with resources.Get "images/background.webp" -}}
+{{- with resources.Get "images/background.webp" | fingerprint -}}
 <style>
   body { background-image: url("{{ .RelPermalink }}"); }
 </style>

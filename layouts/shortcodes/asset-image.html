@@ -1,3 +1,3 @@
-{{- with resources.Get (.Get "image") -}}
+{{- with resources.Get (.Get "image") | fingerprint -}}
 <img src="{{ .RelPermalink }}" alt="{{ $.Get "alt" }}" fetchpriority="{{ $.Get "fetchpriority" | default "auto" }}" style="{{ $.Get "style" | default "width: 100%;" | safeCSS }}">
 {{- end -}}
