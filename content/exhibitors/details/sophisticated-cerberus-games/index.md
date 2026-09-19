@@ -27,3 +27,13 @@ In The Stifling Dark, players use acrylic flashlights to track line of sight in 
   {{< card link="https://bsky.app/profile/sophcerb.bsky.social" title="Bluesky" icon="bluesky" >}}
 {{< /cards >}}
 
+## Top Games
+
+Click a game to visit its BoardGameGeek page.
+
+{{< cards cols="3" >}}
+  {{< card title="The Stifling Dark" image="sophisticated-cerberus-stifling-dark.jpg" imageStyle="width:100%; aspect-ratio:1/1; object-fit:cover; object-position:center;" link="https://boardgamegeek.com/boardgame/346773/the-stifling-dark" >}}
+  {{< card title="The Stifling Dark: Nightfall" image="sophisticated-cerberus-nightfall.jpg" imageStyle="width:100%; aspect-ratio:1/1; object-fit:cover; object-position:center;" link="https://boardgamegeek.com/boardgameexpansion/375222/the-stifling-dark-nightfall" >}}
+  {{< card title="Lemonade Wars" image="sophisticated-cerberus-lemonade-wars.jpg" imageStyle="width:100%; aspect-ratio:1/1; object-fit:cover; object-position:center;" link="https://boardgamegeek.com/boardgame/463075/lemonade-wars" >}}
+{{< /cards >}}
+

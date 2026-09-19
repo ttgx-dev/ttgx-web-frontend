@@ -26,3 +26,13 @@ We love making board games with stunning table presence and creative components 
   {{< card link="https://facebook.com/adamsapplegames" title="Facebook" icon="facebook" >}}
 {{< /cards >}}
 
+## Top Games
+
+Click a game to visit its BoardGameGeek page.
+
+{{< cards cols="3" >}}
+  {{< card title="Planet Unknown" image="adams-apple-planet-unknown.jpg" imageStyle="width:100%; aspect-ratio:1/1; object-fit:cover; object-position:center;" link="https://boardgamegeek.com/boardgame/258779/planet-unknown" >}}
+  {{< card title="Thrive" image="adams-apple-thrive.png" imageStyle="width:100%; aspect-ratio:1/1; object-fit:cover; object-position:center;" link="https://boardgamegeek.com/boardgame/250725/thrive" >}}
+  {{< card title="Swordcrafters" image="adams-apple-swordcrafters.png" imageStyle="width:100%; aspect-ratio:1/1; object-fit:cover; object-position:center;" link="https://boardgamegeek.com/boardgame/243994/swordcrafters" >}}
+{{< /cards >}}
+

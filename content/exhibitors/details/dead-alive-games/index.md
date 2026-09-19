@@ -26,3 +26,13 @@ They create bold, thematic games that combine accessible mechanics with imaginat
   {{< card link="https://www.tiktok.com/@deadalivegames" title="TikTok" >}}
 {{< /cards >}}
 
+## Top Games
+
+Click a game to visit its BoardGameGeek page.
+
+{{< cards cols="3" >}}
+  {{< card title="Omicron Protocol" image="dead-alive-omicron-protocol.png" imageStyle="width:100%; aspect-ratio:1/1; object-fit:cover; object-position:center;" link="https://boardgamegeek.com/boardgame/249748/omicron-protocol" >}}
+  {{< card title="Cyber Pet Quest" image="dead-alive-cyber-pet-quest.png" imageStyle="width:100%; aspect-ratio:1/1; object-fit:cover; object-position:center;" link="https://boardgamegeek.com/boardgame/389220/cyber-pet-quest" >}}
+  {{< card title="Kittens in Space" image="dead-alive-kittens-in-space.jpg" imageStyle="width:100%; aspect-ratio:1/1; object-fit:cover; object-position:center;" link="https://boardgamegeek.com/boardgame/446480/kittens-in-space" >}}
+{{< /cards >}}
+

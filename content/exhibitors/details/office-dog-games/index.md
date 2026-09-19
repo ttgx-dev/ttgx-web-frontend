@@ -31,7 +31,7 @@ Office Dog is a gamerâ€™s best friend. Founded in 2022 as Asmodee North Americaâ
 Click a game to visit its BoardGameGeek page.
 
 {{< cards cols="3" >}}
-  {{< card title="River of Gold" image="office-dog-river-of-gold.jpg" link="https://boardgamegeek.com/boardgame/399941/river-of-gold" >}}
-  {{< card title="Crafting the Cosmos" image="office-dog-crafting-the-cosmos.jpg" link="https://boardgamegeek.com/boardgame/424785/crafting-the-cosmos" >}}
-  {{< card title="The Lord of the Rings: The Fellowship of the Ring Trick-Taking Game" image="office-dog-fellowship.jpg" link="https://boardgamegeek.com/boardgame/429293/the-lord-of-the-rings-the-fellowship-of-the-ring-t" >}}
+  {{< card title="River of Gold" image="office-dog-river-of-gold.jpg" imageStyle="width:100%; aspect-ratio:1/1; object-fit:cover; object-position:center;" link="https://boardgamegeek.com/boardgame/399941/river-of-gold" >}}
+  {{< card title="Crafting the Cosmos" image="office-dog-crafting-the-cosmos.jpg" imageStyle="width:100%; aspect-ratio:1/1; object-fit:cover; object-position:center;" link="https://boardgamegeek.com/boardgame/424785/crafting-the-cosmos" >}}
+  {{< card title="The Lord of the Rings: The Fellowship of the Ring Trick-Taking Game" image="office-dog-fellowship.jpg" imageStyle="width:100%; aspect-ratio:1/1; object-fit:cover; object-position:center;" link="https://boardgamegeek.com/boardgame/429293/the-lord-of-the-rings-the-fellowship-of-the-ring-t" >}}
 {{< /cards >}}

@@ -23,3 +23,13 @@ Earthborne Games creates breathtaking tabletop games that prioritize environment
   {{< card link="https://www.instagram.com/earthbornegames/" title="Instagram" icon="instagram" >}}
   {{< card link="https://www.youtube.com/@earthbornegames" title="YouTube" icon="youtube" >}}
 {{< /cards >}}
+
+## Top Games
+
+Click a game to visit its BoardGameGeek page.
+
+{{< cards cols="3" >}}
+  {{< card title="Earthborne Rangers" image="earthborne-rangers.jpg" imageStyle="width:100%; aspect-ratio:1/1; object-fit:cover; object-position:center;" link="https://boardgamegeek.com/boardgame/342900/earthborne-rangers" >}}
+  {{< card title="Earthborne Rangers: Legacy of the Ancestors" image="earthborne-legacy.jpg" imageStyle="width:100%; aspect-ratio:1/1; object-fit:cover; object-position:center;" link="https://boardgamegeek.com/boardgameexpansion/354291/earthborne-rangers-legacy-of-the-ancestors" >}}
+  {{< card title="Earthborne Rangers: Stewards of the Valley" image="earthborne-stewards.jpg" imageStyle="width:100%; aspect-ratio:1/1; object-fit:cover; object-position:center;" link="https://boardgamegeek.com/boardgameexpansion/400328/earthborne-rangers-stewards-of-the-valley" >}}
+{{< /cards >}}
