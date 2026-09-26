@@ -39,5 +39,5 @@
     "organizer" $organizer
   -}}
   {{- $graph := dict "@context" "https://schema.org" "@graph" (slice $event $organizer) -}}
-  <script type="application/ld+json">{{ $graph | jsonify | safeHTML }}</script>
+  <script type="application/ld+json">{{ $graph | jsonify | safeJS }}</script>
 {{- end -}}
