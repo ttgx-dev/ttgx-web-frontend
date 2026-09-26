@@ -13,6 +13,15 @@
       "https://bsky.app/profile/ttgexpo.bsky.social"
     )
   -}}
+  {{- $badgeURL := "https://tabletop.events/conventions/twin-cities-tabletop-games-expo/badgetypes" -}}
+  {{- $offers := slice
+    (dict "@type" "Offer" "name" "3 Day Base" "url" $badgeURL "price" 50 "priceCurrency" "USD" "availability" "https://schema.org/InStock")
+    (dict "@type" "Offer" "name" "3 Day Deluxe" "url" $badgeURL "price" 100 "priceCurrency" "USD" "availability" "https://schema.org/InStock")
+    (dict "@type" "Offer" "name" "3 Day All-In" "url" $badgeURL "price" 150 "priceCurrency" "USD" "availability" "https://schema.org/InStock")
+    (dict "@type" "Offer" "name" "Friday Only" "url" $badgeURL "price" 20 "priceCurrency" "USD" "availability" "https://schema.org/InStock")
+    (dict "@type" "Offer" "name" "Saturday Only" "url" $badgeURL "price" 30 "priceCurrency" "USD" "availability" "https://schema.org/InStock")
+    (dict "@type" "Offer" "name" "Sunday Only" "url" $badgeURL "price" 20 "priceCurrency" "USD" "availability" "https://schema.org/InStock")
+  -}}
   {{- $event := dict
     "@type" "Event"
     "name" "Twin Cities Tabletop Games Expo"
@@ -36,6 +45,7 @@
         "addressCountry" "US"
       )
     )
+    "offers" $offers
     "organizer" $organizer
   -}}
   {{- $graph := dict "@context" "https://schema.org" "@graph" (slice $event $organizer) -}}
