@@ -1,5 +1,6 @@
 ---
 title: "Orca Island Games"
+description: Orca Island Games creates tabletop games blending strategy, creativity, and family fun, including collaborative titles made with Mayhem and Delight Games.
 toc: false
 type: blog
 sidebar:

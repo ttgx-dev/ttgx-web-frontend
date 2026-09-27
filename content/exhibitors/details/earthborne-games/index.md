@@ -1,5 +1,6 @@
 ---
 title: "Earthborne Games"
+description: Earthborne Games makes sustainable tabletop games, with transparent production and hopeful stories about a better future and our relationship with Earth.
 toc: false
 type: blog
 sidebar:

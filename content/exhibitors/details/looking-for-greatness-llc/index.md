@@ -1,5 +1,6 @@
 ---
 title: "Looking For Greatness LLC"
+description: Looking For Greatness LLC is a Minnesota publisher promoting games by local designers, including Final Strike.
 toc: false
 type: blog
 sidebar:

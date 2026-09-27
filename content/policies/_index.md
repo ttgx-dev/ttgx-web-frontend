@@ -1,6 +1,9 @@
 ---
 title: Policies
-description: The latest policies and rules for the Twin Cities Tabletop Games Expo
+description: Review attendee, exhibitor, and event policies for the Twin Cities Tabletop Games Expo, including rules and guidance for taking part in the convention.
+noindex: true
+sitemap:
+    disable: true
 toc: false
 type: blog
 ---
@@ -9,5 +12,4 @@ type: blog
     <link rel="stylesheet" href="/styles.css">
 </head>
 
-# Policies
 The latest policies and rules for the Twin Cities Tabletop Games Expo.

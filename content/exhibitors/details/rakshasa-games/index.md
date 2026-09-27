@@ -1,5 +1,6 @@
 ---
 title: "Rakshasa Games"
+description: Rakshasa Games presents Witches' Quarrel, a two-player legacy deck-building game where best friends learn magic through quick duels, evolving spells, and story.
 toc: false
 type: blog
 sidebar:

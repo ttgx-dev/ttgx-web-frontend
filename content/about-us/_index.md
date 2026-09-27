@@ -1,4 +1,6 @@
 ---
+title: About Us
+description: Meet the people behind the Twin Cities Tabletop Games Expo, and connect with our team through email, social media, and event updates.
 toc: false
 type: blog
 ---
@@ -6,8 +8,6 @@ type: blog
 <head>
     <link rel="stylesheet" href="/styles.css">
 </head>
-
-# About Us
 
 Email us at <a href="mailto:contact@ttgexpo.com" target="_blank">contact@ttgexpo.com</a> or reach out through one of the links below.
 

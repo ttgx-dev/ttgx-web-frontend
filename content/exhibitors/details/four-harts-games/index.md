@@ -1,5 +1,6 @@
 ---
 title: "Four Harts Games"
+description: Four Harts Games is a Minnesota family-run company making D&D and RPG accessories, custom game pieces, and Beast In Show, a deck-building game.
 toc: false
 type: blog
 sidebar:

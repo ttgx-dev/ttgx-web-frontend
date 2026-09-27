@@ -1,5 +1,6 @@
 ---
 title: "Dead Alive Games"
+description: Dead Alive Games publishes inclusive tabletop games such as Omicron Protocol, Lunar Rush, Cyber Pet Quest, Lunar Skyline, Cat Rescue, and Kittens in Space.
 toc: false
 type: blog
 sidebar:

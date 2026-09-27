@@ -89,8 +89,12 @@ jobs:
         run: |
           test -f public/robots.txt
           grep -q "Sitemap: https://ttgexpo.com/sitemap.xml" public/robots.txt
+          ! grep -q 'Disallow: /policies/' public/robots.txt
           ! grep -R -q "localhost" public
-          ! grep -R -q 'noindex, nofollow' public
+          grep -q 'noindex, nofollow' public/policies/index.html
+          grep -q 'noindex, nofollow' public/policies/sweepstakes/index.html
+          ! grep -R -q --exclude-dir=policies 'noindex, nofollow' public
+          ! grep -q 'https://ttgexpo.com/policies' public/sitemap.xml
       - name: Cache save
         id: cache-save
         uses: actions/cache/save@v4

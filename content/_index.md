@@ -1,8 +1,9 @@
 ---
+title: Twin Cities Tabletop Games Expo
 date: 2025-12-10T20:21:52-06:00
 draft: false
 toc: false
-description: An annual tabletop gaming convention featuring a large exhibit hall with local game publishers, a huge open play game library, organized gaming events, and more!
+description: An annual tabletop gaming convention featuring a large exhibit hall with local game publishers, an open play game library, organized gaming events, and more!
 ---
 
 <head>

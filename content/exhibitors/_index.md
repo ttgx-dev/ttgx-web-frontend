@@ -1,4 +1,6 @@
 ---
+title: Exhibitors
+description: Explore the Twin Cities Tabletop Games Expo exhibit hall, featuring Minnesota and Midwest game publishers, designers, and tabletop creators.
 toc: false
 type: blog
 ---
@@ -6,8 +8,6 @@ type: blog
 <head>
     <link rel="stylesheet" href="/styles.css">
 </head>
-
-# Exhibitors
 
 Explore our 13,000 sqft exhibit hall filled with publishers, designers, and board game related products.
 

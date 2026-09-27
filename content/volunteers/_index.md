@@ -1,4 +1,6 @@
 ---
+title: Volunteers
+description: Volunteer at the Twin Cities Tabletop Games Expo in Brooklyn Center, Minnesota. Help attendees and exhibitors, support organized play, and learn about roles.
 toc: false
 type: blog
 ---
@@ -6,8 +8,6 @@ type: blog
 <head>
     <link rel="stylesheet" href="/styles.css">
 </head>
-
-# Volunteers
 
 {{< cards >}}
   {{< card title="Apply To Volunteer" subtitle="Let us know you are interested in volunteering by filling out this short survey." icon="document-report" image="images/volunteers.webp" link="https://forms.gle/AZonfhGZXNVSALNs7" >}}

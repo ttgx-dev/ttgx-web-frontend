@@ -1,5 +1,6 @@
 ---
 title: "Spy Alley Partners L.L.P."
+description: Spy Alley Partners publishes board and card games, including Spy Alley.
 toc: false
 type: blog
 sidebar:

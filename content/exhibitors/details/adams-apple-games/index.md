@@ -1,5 +1,6 @@
 ---
 title: "Adam's Apple Games"
+description: "Discover Adam's Apple Games, an independent Minneapolis board game publisher behind Planet Unknown, Thrive, Swordcrafters, and other creative tabletop games."
 toc: false
 type: blog
 sidebar:

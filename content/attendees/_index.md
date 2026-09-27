@@ -1,4 +1,6 @@
 ---
+title: Attendees
+description: "Plan your Twin Cities Tabletop Games Expo visit: browse exhibitors, games, join organized play, meet the community, get your badge, and find visitor details."
 toc: false
 type: blog
 ---
@@ -6,8 +8,6 @@ type: blog
 <head>
     <link rel="stylesheet" href="/styles.css">
 </head>
-
-# Attendees
 
 {{< cards cols="3" >}}
   {{< card title="Buy Games" subtitle="Games and goods offered by exhibitors." image="images/buy-games.webp" link="/exhibitors" >}}

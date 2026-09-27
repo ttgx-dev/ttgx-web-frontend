@@ -1,5 +1,6 @@
 ---
 title: "Speedrobo Games"
+description: Speedrobo Games is a tabletop publisher, developer, distributor, and manufacturer focused on fun, accessible, affordable games for players and collectors.
 toc: false
 type: blog
 sidebar:

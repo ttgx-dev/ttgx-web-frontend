@@ -1,5 +1,6 @@
 ---
 title: "Combinatarial Games Company"
+description: Combinatorial Games Company creates Chess Cubes, cube-shaped chess pieces that move as the piece displayed on top, giving classic chess a flexible new twist.
 toc: false
 type: blog
 sidebar:

@@ -1,5 +1,6 @@
 ---
 title: "The Bird Hive"
+description: The Bird Hive is a Minnesota sensory-friendly graphic T-shirt business by an artist who also creates illustrations for fantasy and tabletop role-playing games.
 toc: false
 type: blog
 sidebar:

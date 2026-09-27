@@ -1,4 +1,9 @@
 ---
+title: Sweepstakes Rules
+description: Rules for the 2026-2027 Twin Cities Tabletop Games Expo sweepstakes, including entry methods, eligibility, dates, prizes, and winner notification terms.
+noindex: true
+sitemap:
+    disable: true
 toc: false
 type: blog
 ---

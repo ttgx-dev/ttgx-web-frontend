@@ -1,5 +1,6 @@
 ---
 title: "Sophisticated Cerberus Games"
+description: Minnesota publisher Sophisticated Cerberus Games makes thematic board games, including The Stifling Dark, Sprocketforge, and Lemonade Wars.
 toc: false
 type: blog
 sidebar:

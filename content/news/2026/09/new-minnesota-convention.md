@@ -1,6 +1,6 @@
 ---
 title: Introducing the Twin Cities Tabletop Games Expo
-description: A new Minnesota-based tabletop and board game convention
+description: Twin Cities Tabletop Games Expo is a Minnesota convention coming to Brooklyn Center April 16-18, 2027, with game publishers, open play, and organized events.
 date: 2026-09-01
 draft: false
 toc: false

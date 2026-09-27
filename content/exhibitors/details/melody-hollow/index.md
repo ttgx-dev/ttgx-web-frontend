@@ -1,5 +1,6 @@
 ---
 title: "Melody Hollow"
+description: Melody Hollow sells original hand-drawn dragon art and handcrafted fantasy treasures, featuring characters and cozy designs for collectors and dragon fans.
 toc: false
 type: blog
 sidebar:

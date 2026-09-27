@@ -1,5 +1,6 @@
 ---
 title: "Office Dog Games"
+description: Office Dog Games, Asmodee North America's development studio, works with community designers to publish board games with ideas, stories, and fun-first design.
 toc: false
 type: blog
 sidebar:

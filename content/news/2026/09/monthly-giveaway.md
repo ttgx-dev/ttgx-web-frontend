@@ -1,6 +1,6 @@
 ---
 title: Monthly Badgeholder Giveaway
-description: Buy your badge early to be automatically entered into a monthly drawing to win boardgames
+description: Buy your badge early to enter the monthly board game drawing. Read the giveaway announcement for current prize, entry, and winner update details today.
 date: 2026-09-07
 draft: true
 toc: false
