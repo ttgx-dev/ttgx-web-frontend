@@ -1,6 +1,6 @@
 ---
 title: "Mayhem and Delight Games"
-description: Mayhem and Delight Games makes indie card games, micro and mint-tin tabletop games, and merchandise, including the planned 2027 release Cryptid Creek.
+description: "Mayhem and Delight Games makes Cryptid Creek: Build a Legend, indie card games, and micro tabletop games."
 toc: false
 type: blog
 sidebar:

@@ -1,6 +1,6 @@
 ---
 title: "Tabletop Foundry"
-description: TableTop Foundry creates high-detail resin miniatures, custom terrain, and campaign modules with maps and stat sheets for tabletop RPG adventures.
+description: Tabletop Foundry makes resin miniatures, custom terrain, and campaign modules for tabletop role-playing games.
 toc: false
 type: blog
 sidebar:

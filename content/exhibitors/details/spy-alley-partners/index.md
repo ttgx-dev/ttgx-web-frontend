@@ -1,6 +1,6 @@
 ---
 title: "Spy Alley Partners L.L.P."
-description: Spy Alley Partners publishes board and card games, including Spy Alley.
+description: "Spy Alley Partners makes Spy Alley, Spy Alley: Dice Game, and Spy Alley Junior, family-friendly deduction games."
 toc: false
 type: blog
 sidebar:

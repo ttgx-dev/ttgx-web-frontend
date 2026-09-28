@@ -1,6 +1,6 @@
 ---
 title: "BrightBard"
-description: BrightBard Games is a Twin Cities tabletop RPG publisher creating weird, whimsical, tactile games, including solo and duet journaling games for creative play.
+description: BrightBard Games makes solo and duet journaling RPGs, whimsical tabletop role-playing games for creative play.
 toc: false
 type: blog
 sidebar:

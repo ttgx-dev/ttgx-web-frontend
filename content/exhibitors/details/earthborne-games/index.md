@@ -1,6 +1,6 @@
 ---
 title: "Earthborne Games"
-description: Earthborne Games makes sustainable tabletop games, with transparent production and hopeful stories about a better future and our relationship with Earth.
+description: Earthborne Games makes Earthborne Rangers and its expansions, sustainable cooperative adventure games.
 toc: false
 type: blog
 sidebar:
