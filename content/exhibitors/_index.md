@@ -28,7 +28,6 @@ Click an exhibitor to visit their info page and learn more about them.
   {{< card title="Combinatarial Games Company" image="images/exhibitors/combinatorial games company.png" link="/exhibitors/details/combinatorial-games-company" method="Resize" options="600x q80 webp" >}}
   {{< card title="Dead Alive Games" image="images/exhibitors/dead alive games.png" link="/exhibitors/details/dead-alive-games" method="Resize" options="600x q80 webp" >}}
   {{< card title="Earthborne Games" image="images/exhibitors/earthborne.png" link="/exhibitors/details/earthborne-games" method="Resize" options="600x q80 webp" >}}
-  {{< card title="Four Harts Games" image="images/exhibitors/four harts games.jpg" link="/exhibitors/details/four-harts-games" method="Resize" options="600x q80 webp" >}}
   {{< card title="Hall of Heroes Gaming" image="images/exhibitors/hall of heroes gaming.png" link="/exhibitors/details/hall-of-heroes-gaming" method="Resize" options="600x q80 webp" >}}
   {{< card title="Looking For Greatness LLC" image="images/exhibitors/final strike.png" link="/exhibitors/details/looking-for-greatness-llc" method="Resize" options="600x q80 webp" >}}
   {{< card title="Mayhem and Delight Games" image="images/exhibitors/mayhem and delight.jpg" link="/exhibitors/details/mayhem-and-delight-games" method="Resize" options="600x q80 webp" >}}
