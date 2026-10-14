@@ -86,7 +86,7 @@ The combined approximate retail value of all Sweepstakes prizes is \$1,500.
 
 **Prize Substitutions**
 
-TTGX reserves the right to substitute any advertised prize with a prize of equal or greater approximate retail value if the original prize becomes unavailable, subject to applicable law.
+TTGX reserves the right to substitute any advertised prize with a prize of equal or greater approximate retail value, subject to applicable law.
 
 Prizes are nontransferable and cannot be exchanged for cash. Winners are solely responsible for any applicable taxes.
 
