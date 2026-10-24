@@ -24,21 +24,21 @@ An annual tabletop gaming convention featuring a large exhibit hall with local g
 
 {{< asset-image image="images/banner-wide.webp" alt="Wide image of boardgame boxes" fetchpriority="high" >}}
 
-## Badges
-
-<iframe width="540" height="225" src="https://bd3f8dd0.sibforms.com/v2/serve/MUIFAHV1FZ03MHiKn_2tr1N6T4M_S5qvoPE3_bPYmYpDdIGwhqAMIqgl692e9544551c-nUCa4P1GIuggux9KvenC_K0Iu0kM1_WbgGHEQ_19Mu2C8xPA5rVEJ5Unvp17Nv5CEFRMIoWrjES9XeRJ6FScl1aMOyjAhpLb429Y-7Qy-hq_rG3XY_8vftf14RR2QP9cTv3T7dckG9YBQ==" frameborder="0" scrolling="no" allowfullscreen style="overflow:hidden;display: block;margin-left: auto;margin-right: auto;padding: 0;max-width: 100%;"></iframe>
-
 <br/>
 
-{{< hextra/hero-button text="Buy Badges" link="https://tabletop.events/conventions/twin-cities-tabletop-games-expo/badgetypes" >}}
-
-<hr/>
+{{< hextra/feature-grid cols="3" >}}
+  {{< hextra/hero-button style="background-color: #238600; border-color: #238600;" text="Buy Badges" link="https://tabletop.events/conventions/twin-cities-tabletop-games-expo/badgetypes" >}}
+  {{< hextra/hero-button style="background-color: #69b4d3; border-color: #69b4d3;" text="Day Pass $20 " link="https://tabletop.events/conventions/twin-cities-tabletop-games-expo/badgetypes/friday-only200" >}}
+  {{< hextra/hero-button style="background-color: #026283; border-color: #026283;" text="Weekend $50 " link="https://tabletop.events/conventions/twin-cities-tabletop-games-expo/badgetypes/3-day-base" >}}
+{{< /hextra/feature-grid >}}
 
 Come join TTGX in connecting with the culture behind the scenes: publishers and designers of your favorite games, local indies in your city, and the board gaming communities that tie it all together.
 
 Minnesota and the Midwest are powerhouses of board game business and culture, hosting world-class publishers, unbeatable conventions, and a long and storied history of playing tabletop games. TTGX brings them front and center.
 
 Join us for scheduled and free play board games, card games, big-game events, giveaways, local board game communities, and a one-of-a-kind exhibitor hall packed with local publishers big and small!
+
+<iframe width="540" height="225" src="https://bd3f8dd0.sibforms.com/v2/serve/MUIFAHV1FZ03MHiKn_2tr1N6T4M_S5qvoPE3_bPYmYpDdIGwhqAMIqgl692e9544551c-nUCa4P1GIuggux9KvenC_K0Iu0kM1_WbgGHEQ_19Mu2C8xPA5rVEJ5Unvp17Nv5CEFRMIoWrjES9XeRJ6FScl1aMOyjAhpLb429Y-7Qy-hq_rG3XY_8vftf14RR2QP9cTv3T7dckG9YBQ==" frameborder="0" scrolling="no" allowfullscreen style="overflow:hidden;display: block;margin-left: auto;margin-right: auto;padding: 0;max-width: 100%;"></iframe>
 
 ## Important Dates
 
