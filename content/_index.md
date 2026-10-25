@@ -26,10 +26,8 @@ An annual tabletop gaming convention featuring a large exhibit hall with local g
 
 <br/>
 
-{{< hextra/feature-grid cols="3" >}}
-  {{< hextra/hero-button style="background-color: #238600; border-color: #238600;" text="Buy Badges" link="https://tabletop.events/conventions/twin-cities-tabletop-games-expo/badgetypes" >}}
-  {{< hextra/hero-button style="background-color: #69b4d3; border-color: #69b4d3;" text="Day Pass $20 " link="https://tabletop.events/conventions/twin-cities-tabletop-games-expo/badgetypes/friday-only200" >}}
-  {{< hextra/hero-button style="background-color: #026283; border-color: #026283;" text="Weekend $50 " link="https://tabletop.events/conventions/twin-cities-tabletop-games-expo/badgetypes/3-day-base" >}}
+{{< hextra/feature-grid cols="1" >}}
+  {{< hextra/hero-button style="background-color: #016183; border-color: #016183;" text="Buy Badges" link="https://tabletop.events/conventions/twin-cities-tabletop-games-expo/badgetypes" >}}
 {{< /hextra/feature-grid >}}
 
 Come join TTGX in connecting with the culture behind the scenes: publishers and designers of your favorite games, local indies in your city, and the board gaming communities that tie it all together.
