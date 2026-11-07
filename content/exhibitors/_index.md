@@ -23,6 +23,7 @@ Click an exhibitor to visit their info page and learn more about them.
 
 {{< cards cols="2" >}}
   {{< card title="Adam's Apple Games" image="images/exhibitors/adams apple games.png" link="/exhibitors/details/adams-apple-games" method="Resize" options="600x q80 webp" >}}
+  {{< card title="Athenium Games" image="images/exhibitors/athenium games.jpg" link="/exhibitors/details/athenium-games" method="Resize" options="600x q80 webp" >}}
   {{< card title="The Bird Hive" image="images/exhibitors/the bird hive.png" link="/exhibitors/details/the-bird-hive" method="Resize" options="600x q80 webp" >}}
   {{< card title="BrightBard" image="images/exhibitors/brightbard.png" link="/exhibitors/details/brightbard" method="Resize" options="600x q80 webp" >}}
   {{< card title="Combinatarial Games Company" image="images/exhibitors/combinatorial games company.png" link="/exhibitors/details/combinatorial-games-company" method="Resize" options="600x q80 webp" >}}
