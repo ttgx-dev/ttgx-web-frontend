@@ -17,7 +17,7 @@ Explore our 13,000 sqft exhibit hall filled with publishers, designers, and boar
 
 To learn more about exhibiting at TTGX [Download our Exhibitor Packet](https://drive.google.com/file/d/1XcDB8hKnJtRMbCNQHNqaynUMpMGEvd0Q/view?usp=sharing)
 
-## Attending Exhibitors
+<h2 id="attending-exhibitors">Attending Exhibitors</h2>
 
 Click an exhibitor to visit their info page and learn more about them.
 
@@ -43,6 +43,27 @@ Click an exhibitor to visit their info page and learn more about them.
   {{< card title="Spy Alley Partners L.L.P." image="images/exhibitors/spy alley partners.jpg" link="/exhibitors/details/spy-alley-partners" method="Resize" options="600x q80 webp" >}}
   {{< card title="Tabletop Foundry" image="images/exhibitors/tabletop foundry.png" link="/exhibitors/details/tabletop-foundry" method="Resize" options="600x q80 webp" >}}
 {{< /cards >}}
+
+<script>
+  (() => {
+    const heading = document.getElementById("attending-exhibitors");
+    let grid = heading?.nextElementSibling;
+
+    while (grid && !grid.classList.contains("hextra-cards")) {
+      grid = grid.nextElementSibling;
+    }
+
+    if (!grid) return;
+
+    const cards = [...grid.children];
+    for (let index = cards.length - 1; index > 0; index--) {
+      const randomIndex = Math.floor(Math.random() * (index + 1));
+      [cards[index], cards[randomIndex]] = [cards[randomIndex], cards[index]];
+    }
+
+    cards.forEach((card) => grid.append(card));
+  })();
+</script>
 
 {{< callout >}}
   More exhibitors coming soon... Stay tuned!
