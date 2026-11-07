@@ -32,6 +32,7 @@ Click an exhibitor to visit their info page and learn more about them.
   {{< card title="Flying Unicorns" image="images/exhibitors/flying unicorns.png" link="/exhibitors/details/flying-unicorns" method="Resize" options="600x q80 webp" >}}
   {{< card title="Hall of Heroes Gaming" image="images/exhibitors/hall of heroes gaming.png" link="/exhibitors/details/hall-of-heroes-gaming" method="Resize" options="600x q80 webp" >}}
   {{< card title="Looking For Greatness LLC" image="images/exhibitors/final strike.png" link="/exhibitors/details/looking-for-greatness-llc" method="Resize" options="600x q80 webp" >}}
+  {{< card title="Little Panda Art Studio" image="images/exhibitors/little panda art studio.jpg" link="/exhibitors/details/little-panda-art-studio" method="Resize" options="600x q80 webp" >}}
   {{< card title="Mayhem and Delight Games" image="images/exhibitors/mayhem and delight.jpg" link="/exhibitors/details/mayhem-and-delight-games" method="Resize" options="600x q80 webp" >}}
   {{< card title="Melody Hollow" image="images/exhibitors/melody hollow.png" link="/exhibitors/details/melody-hollow" method="Resize" options="600x q80 webp" >}}
   {{< card title="Office Dog Games" image="images/exhibitors/office dog.png" link="/exhibitors/details/office-dog-games" method="Resize" options="600x q80 webp" >}}
