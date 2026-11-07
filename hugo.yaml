@@ -84,7 +84,3 @@ params:
   footer:
     displayCopyright: true
     displayPoweredBy: false
-
-services:
-  googleAnalytics:
-    ID: G-V3XQZW17LE
