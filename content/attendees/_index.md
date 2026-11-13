@@ -9,20 +9,11 @@ type: blog
     <link rel="stylesheet" href="/styles.css">
 </head>
 
-{{< cards cols="3" >}}
-  {{< card title="Buy Games" subtitle="Games and goods offered by exhibitors." image="images/buy-games.webp" link="/exhibitors" >}}
-  {{< card title="Play Games" subtitle="An open library of boardgames to enjoy." image="images/play-games.webp" link="#game-library" >}}
-  {{< card title="Join Our Community" subtitle="Join our community Discord server to discuss the event and the boardgaming hobby!"  icon="discord" image="images/attendees.webp" link="https://discord.gg/uEZ8jdZC5v" >}}
-  {{< card title="Volunteer" subtitle="Earn a free badge, help shape the event, and bring it to life by volunteering your time." icon="user-group" image="images/volunteers.webp" link="/volunteers" >}}
-{{< /cards >}}
-
-## Attendee Information
-
 Twin Cities Tabletop Games Expo is a Minnesota tabletop gaming convention taking place April 16-18, 2027, at the [Heritage Center of Brooklyn Center](https://heritagecenter.mn/), 6155 Earle Brown Dr, Brooklyn Center, MN 55430.
 
-<br />
+### What to Expect
 
-{{< hextra/hero-button text="Get Driving Directions" link="https://maps.app.goo.gl/MMPdb53cTw2jywzT9" >}}
+Attendees can shop from 30+ booths featuring local and internationally recognized board game publishers, play games from the free game library, and take part in tournaments, giveaways, community-submitted scheduled games, and other tabletop events. The event schedule is currently planned for publication on January 15, 2027. Events are included with admission by default, although some events may charge a premium to cover the cost of materials or items attendees take home.
 
 ### Convention Hours
 
@@ -35,20 +26,6 @@ The exhibit hall is open during these hours:
 - Friday: 12 PM - 6 PM
 - Saturday: 10 AM - 6 PM
 - Sunday: 10 AM - 4 PM
-
-### Getting There and Staying Nearby
-
-There is a large amount of free uncovered parking in lots around the Heritage Center. The venue is near the intersection of I-94 and I-694, a short drive north of downtown Minneapolis.
-
-For public transit, the Brooklyn Ctr Transit Ctr Gate I is a few blocks away. The Shingle Creek Pkwy & Mn Business School and 63rd Ave N bus stops are about a 12-minute walk from the venue.
-
-The [Embassy Suites by Hilton Minneapolis North](https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=MSPBRES&groupCode=CES90K&arrivaldate=2027-04-16&departuredate=2027-04-18&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT) is connected to the venue and has a TTGX room block at $145 per night plus tax. The [Fairfield by Marriott Inn & Suites Minneapolis North](https://maps.app.goo.gl/KjrzeJjicyUUny9Z6) is across the street.
-
-### Accessibility and Family Information
-
-The Heritage Center has wheelchair-accessible entrances, restrooms, and parking spaces. Children are welcome, but children and minors must be accompanied by an adult.
-
-Children age 6 and under may attend for free when accompanied by a registered adult. Attendees under 18 must be accompanied by a parent or legal guardian at all times.
 
 ### Badge Options and Policies
 
@@ -74,13 +51,27 @@ Badges are for the registered attendee and must be worn visibly in convention ar
 
 {{< hextra/hero-button text="Buy Badges" link="https://tabletop.events/conventions/twin-cities-tabletop-games-expo/badgetypes" >}}
 
+### Getting There and Staying Nearby
+
+There is a large amount of free uncovered parking in lots around the Heritage Center. The venue is near the intersection of I-94 and I-694, a short drive north of downtown Minneapolis.
+
+For public transit, the Brooklyn Ctr Transit Ctr Gate I is a few blocks away. The Shingle Creek Pkwy & Mn Business School and 63rd Ave N bus stops are about a 12-minute walk from the venue.
+
+The [Embassy Suites by Hilton Minneapolis North](https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=MSPBRES&groupCode=CES90K&arrivaldate=2027-04-16&departuredate=2027-04-18&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT) is connected to the venue and has a TTGX room block at $145 per night plus tax. The [Fairfield by Marriott Inn & Suites Minneapolis North](https://maps.app.goo.gl/KjrzeJjicyUUny9Z6) is across the street.
+
+<br />
+
+{{< hextra/hero-button text="Get Driving Directions" link="https://maps.app.goo.gl/MMPdb53cTw2jywzT9" >}}
+
 ### Food and Concessions
 
 Concessions will be available at the venue from 11 AM - 2 PM and 4 PM - 6 PM each day, including vegan and vegetarian options. Refillable water bottles are allowed. Italian, Mexican, African, Honduran, and Chinese restaurants are also within walking distance. Outside food is not allowed in the venue.
 
-### What to Expect
+### Accessibility and Family Information
 
-Attendees can shop from 30+ booths featuring local and internationally recognized board game publishers, play games from the free game library, and take part in tournaments, giveaways, community-submitted scheduled games, and other tabletop events. The event schedule is currently planned for publication on January 15, 2027. Events are included with admission by default, although some events may charge a premium to cover the cost of materials or items attendees take home.
+The Heritage Center has wheelchair-accessible entrances, restrooms, and parking spaces. Children are welcome, but children and minors must be accompanied by an adult.
+
+Children age 6 and under may attend for free when accompanied by a registered adult. Attendees under 18 must be accompanied by a parent or legal guardian at all times.
 
 ### Photography
 

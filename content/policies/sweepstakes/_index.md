@@ -147,9 +147,9 @@ Monthly drawing entries do not carry over to subsequent monthly drawings or the 
 
 Winners will be selected randomly from all eligible entries received by the applicable deadline.
 
-A participant may win a maximum of one (1) prize in the convention-wide drawing. Once selected as a winner, that participant's remaining entries will be excluded from subsequent prize selections in the convention-wide drawing.
+A participant may win a maximum of one (1) prize in the monthly drawings and one (1) prize in the convention-wide drawing. Once selected as a winner in a drawing, that participant's remaining entries will be excluded from subsequent prize selections for the corresponding drawing.
 
-Winning a monthly prize does not affect eligibility for subsequent monthly drawings or the convention-wide drawing.
+Winning a monthly prize does not affect eligibility for the convention-wide drawing.
 
 **5\. Winner Notification and Prize Claims**
 
@@ -171,7 +171,7 @@ Alternate winners will be notified by email and must confirm their acceptance wi
 
 If an alternate winner is ineligible, declines the prize, or fails to confirm acceptance by the applicable deadline, TTGX will continue selecting alternate winners from the remaining eligible entries until the prize has been awarded or no eligible entrants remain available and willing to accept it, subject to applicable law.
 
-The limit of one (1) convention-wide prize per participant applies to alternate winners as well as originally selected winners.
+The limit of one (1) monthly prize and one (1) convention-wide prize per participant applies to alternate winners as well as originally selected winners.
 
 **Prize Collection**
 
