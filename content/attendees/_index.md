@@ -13,7 +13,7 @@ Twin Cities Tabletop Games Expo is a Minnesota tabletop gaming convention taking
 
 ### What to Expect
 
-Attendees can shop from 30+ booths featuring local and internationally recognized board game publishers, play games from the free game library, and take part in tournaments, giveaways, community-submitted scheduled games, and other tabletop events. The event schedule is currently planned for publication on January 15, 2027. Events are included with admission by default, although some events may charge a premium to cover the cost of materials or items attendees take home.
+Attendees can shop from 30+ booths featuring local and internationally recognized board game publishers, play games from the free game library, and take part in tournaments, giveaways, community-submitted scheduled games, and other tabletop events. The event schedule is currently planned for publication on February 26, 2027, when event registration opens. Events are included with admission by default, although some events may charge a premium to cover the cost of materials or items attendees take home.
 
 {{< cards cols="3" >}}
   {{< card title="Join Our Community" subtitle="Join our community Discord server to discuss the event and the boardgaming hobby!"  icon="discord" image="images/attendees.webp" link="https://discord.gg/uEZ8jdZC5v" >}}
@@ -44,7 +44,7 @@ All badge options include admission to the convention during the applicable date
 
 - **3 Day Base - $50:** Admission for all three days, four giveaway entries, and a collectible TTGX meeple set.
 - **3 Day Deluxe - $100:** Full weekend admission, five giveaway entries, a tote bag, dice bag, and collectible TTGX pin, coin, and meeple set.
-- **3 Day All-In - $150:** Full weekend admission, six giveaway entries, the Deluxe merchandise bundle, early event signup, priority badge pickup, and access to a supporter appreciation event.
+- **3 Day All-In - $150:** Full weekend admission, six giveaway entries, the Deluxe merchandise bundle, All-In event registration starting February 19th, 2027, priority badge pickup, and access to a supporter appreciation event.
 
 **Single-day badges**
 

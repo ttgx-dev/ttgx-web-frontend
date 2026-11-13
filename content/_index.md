@@ -44,7 +44,10 @@ Join us for scheduled and free play board games, card games, big-game events, gi
 **✅ Volunteer Applications Open** - [View](https://forms.gle/AZonfhGZXNVSALNs7)\
 **✅ Badge Sales Open** - [View](https://tabletop.events/conventions/twin-cities-tabletop-games-expo/badgetypes)\
 **✅ Event Submissions Open** - [View](https://tabletop.events/conventions/twin-cities-tabletop-games-expo/submit-events)\
-🕒 Event Registrations Open - January 15th, 2027\
+🕒 Early Event Submissions Close - January 22nd, 2027\
+🕒 All-In Event Registrations Open - February 19th, 2027\
+🕒 Event Registrations Open - February 26th, 2027\
+🕒 Late Event Submissions Close - March 19th, 2027\
 🥳 First Day of Expo - April 16th, 2027
 
 ## Exhibitors

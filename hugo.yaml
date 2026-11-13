@@ -41,11 +41,11 @@ menu:
       url: /attendees
       params:
         type: link
-    # - name: Events
-    #   weight: 2
-    #   url: /events
-    #   params:
-    #     type: link
+    - name: Events
+      weight: 2
+      url: /events
+      params:
+        type: link
     - name: Volunteers
       weight: 2
       url: /volunteers
