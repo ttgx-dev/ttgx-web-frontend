@@ -15,6 +15,11 @@ Twin Cities Tabletop Games Expo is a Minnesota tabletop gaming convention taking
 
 Attendees can shop from 30+ booths featuring local and internationally recognized board game publishers, play games from the free game library, and take part in tournaments, giveaways, community-submitted scheduled games, and other tabletop events. The event schedule is currently planned for publication on January 15, 2027. Events are included with admission by default, although some events may charge a premium to cover the cost of materials or items attendees take home.
 
+{{< cards cols="3" >}}
+  {{< card title="Join Our Community" subtitle="Join our community Discord server to discuss the event and the boardgaming hobby!"  icon="discord" image="images/attendees.webp" link="https://discord.gg/uEZ8jdZC5v" >}}
+  {{< card title="Volunteer" subtitle="Earn a free badge, help shape the event, and bring it to life by volunteering your time." icon="user-group" image="images/volunteers.webp" link="/volunteers" >}}
+{{< /cards >}}
+
 ### Convention Hours
 
 - Friday: 12 PM - midnight
