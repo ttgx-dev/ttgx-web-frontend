@@ -31,6 +31,10 @@ The exhibit hall is open during these hours:
 
 All badge options include admission to the convention during the applicable dates. Taxes and Tabletop.Events fees are added at checkout.
 
+<br />
+
+{{< hextra/hero-button text="Buy Badges" link="https://tabletop.events/conventions/twin-cities-tabletop-games-expo/badgetypes" >}}
+
 **Full weekend badges**
 
 - **3 Day Base - $50:** Admission for all three days, four giveaway entries, and a collectible TTGX meeple set.
@@ -46,10 +50,6 @@ All badge options include admission to the convention during the applicable date
 Badges are refundable and transferable until April 15, 2027, one day before the first day of TTGX. Refunds are subject to a 6% processing fee and are issued to the original payment method. Transfer requests must come from the original purchaser and include the new attendee's full name and email address. No-shows are not eligible for refunds. 
 
 Badges are for the registered attendee and must be worn visibly in convention areas. A photo ID or purchase confirmation is required for badge pickup. Re-entry is permitted with a valid badge, subject to venue capacity and safety requirements. Lost or stolen badges can be replaced once for a fee of $25 or 50% of the original purchase price, whichever is lower.
-
-<br />
-
-{{< hextra/hero-button text="Buy Badges" link="https://tabletop.events/conventions/twin-cities-tabletop-games-expo/badgetypes" >}}
 
 ### Getting There and Staying Nearby
 
@@ -84,13 +84,3 @@ TTGX is an all-ages event. Please treat other participants with courtesy, respec
 Report concerns to any TTGX staff member or volunteer. Serious violations, including threats, violence, harassment, stalking, weapons possession, illegal activity, or repeated noncompliance, may result in immediate removal without a refund and may result in a permanent ban from future events.
 
 Please review the [TTGX Code of Conduct](https://drive.google.com/file/d/1AVHrGF1aW1liNRQ2JcwWUOp_1agxiErc/view) and [TTGX General Policies](https://drive.google.com/file/d/1BRUt59c0JEFK9gFBMA_KOGz2ySTjSzOR/view) before attending.
-
-<br />
-
-{{< hextra/hero-button text="Buy Badges" link="https://tabletop.events/conventions/twin-cities-tabletop-games-expo/badgetypes" >}}
-
-### Game Library
-
-{{< callout >}}
-  The free game library will include approximately 2,000 games. Attendees can check out games to play during the convention or bring their own games to play.
-{{< /callout >}}
