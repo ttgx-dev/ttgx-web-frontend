@@ -17,6 +17,9 @@ build:
 
 Welcome to a world where playful chaos meets clever strategy. Orca Island Games and Mayhem and Delight Games create games designed to spark joy, challenge your mind, and bring families together. They strive to create the games they want to play, full of whimsy, creativity, and personality.
 
+<br/>
+{{< youtube id=sfQ1NQ2sy4g loading=lazy >}}
+
 ## Social Media
 
 {{< cards >}}

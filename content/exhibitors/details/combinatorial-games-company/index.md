@@ -17,6 +17,9 @@ build:
 
 Chess Cubes are cube-shaped chess pieces that move like the piece shown on the top of the cube. A Chess Cube can be every different kind of chess piece.
 
+<br/>
+{{< youtube id=X3hpEt487mk loading=lazy >}}
+
 ## Social Media
 
 Combinatarial Games Company is not currently active on social media.

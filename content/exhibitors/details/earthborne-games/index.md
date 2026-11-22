@@ -17,6 +17,9 @@ build:
 
 Earthborne Games creates breathtaking tabletop games that prioritize environmental sustainability in every aspect of their creation, from manufacturing to fulfillment. Every Earthborne product is made as sustainably as possible, with unparalleled transparency throughout the process. There is a hopeful future on the horizon that reimagines our relationship with the Earth and the stories we tell on the gaming table, and Earthborne Games is creating it together with its community.
 
+<br/>
+{{< youtube id=LQCWR8rniRA loading=lazy >}}
+
 ## Social Media
 
 {{< cards >}}

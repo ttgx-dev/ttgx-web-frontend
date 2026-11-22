@@ -19,6 +19,9 @@ build:
 
 Office Dog is a gamer’s best friend. Founded in 2022 as Asmodee North America’s developmental studio, Office Dog works directly with community game designers and developers to bring fresh new titles to the Asmodee catalogue. We are committed to bringing gamers together through great games and amazing stories. Our board games feature design, development, and artwork sourced from amazing community members, and are created with FUN at the forefront. So what are you waiting for? Get your play group together, and dig in!
 
+<br/>
+{{< youtube id=owTfG3EmQp8 loading=lazy >}}
+
 ## Social Media
 
 {{< cards >}}

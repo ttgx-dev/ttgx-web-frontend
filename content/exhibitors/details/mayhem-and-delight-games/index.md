@@ -17,6 +17,9 @@ build:
 
 Mayhem and Delight Games creates indie card games, micro and mint-tin tabletop games, and merchandise connected to its game worlds. The team hopes to have Cryptid Creek: Build a Legend available in spring 2027.
 
+<br/>
+{{< youtube id=gllis4U6MVE loading=lazy >}}
+
 ## Social Media
 
 {{< cards >}}

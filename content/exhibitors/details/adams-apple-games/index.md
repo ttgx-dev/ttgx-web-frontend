@@ -19,6 +19,9 @@ Independent board game publisher located in Minneapolis, MN. Creators of Defende
 
 We love making board games with stunning table presence and creative components that satisfy a wide variety of players, from competitive to cooperative, solo to large group, and families to gamer groups.
 
+<br/>
+{{< youtube id=q6_FMeOmPUk loading=lazy >}}
+
 ## Social Media
 
 {{< cards >}}
