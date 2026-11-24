@@ -14,42 +14,60 @@ type: blog
 
 ## What This Policy Covers
 
-This policy describes information handled through the Twin Cities Tabletop Games Expo website. Some forms, registrations, and purchases are provided by other services; their own privacy policies apply to information you submit to them.
+Twin Cities Tabletop Games Expo (TTGX) is operated by Trove Expo Group, LLC. This Privacy Policy describes how we collect, use, retain, and disclose personal information in connection with our website, convention, registrations, applications, communications, and related activities.
 
-## Information and Services Used on This Website
+Certain services, including badge purchases, event registrations, newsletter subscriptions, and application forms, are provided through third-party platforms. Information submitted through these platforms may be subject to both this Privacy Policy and the applicable platform's own privacy policy.
 
-### Analytics and conversion context
+## Registration, Applications, and Convention Participation
 
-When optional tracking is enabled, this website loads Google Tag Manager, the Meta Pixel, and Metricool. The Meta Pixel sends a page-view event. Google Tag Manager may load the tags configured in our GTM container.
+We may receive personal information submitted through badge purchases, event registrations, exhibitor applications, volunteer applications, event submissions, sweepstakes entries, and other convention-related activities.
 
-When available, our conversion-context script reads Google Analytics client and session identifiers and the Meta `_fbp` and `_fbc` cookies. It sends those identifiers, when present, along with the page's landing and current URLs to our conversion-context service. This can happen when the script starts and again before navigating to a Twin Cities Tabletop Games Expo page on Tabletop.Events. These identifiers are pseudonymous, not anonymous. The third-party scripts and service may also receive technical information such as your IP address and browser details as part of network requests.
+Depending on the activity, this information may include your name, contact information, registration details, organizational affiliations, preferences, and other information you choose to provide.
 
-We use these tools to understand website visits and measure campaigns and badge-checkout navigation. **We do not display ads on this website.**
+We use this information to administer the convention, process registrations and applications, coordinate participation, communicate with participants, administer promotions, and fulfill our contractual and legal obligations.
 
-### Country lookup and privacy choices
+## Accessibility Requests
 
-If you have not already made a privacy choice and your browser is not sending a Global Privacy Control signal, we may send your IP address to Country.is to determine your country and apply the appropriate tracking default. The country category is cached in session storage.
+If you request an accessibility accommodation, we may collect information necessary to understand, evaluate, and fulfill your request. This information may include disability-related or other sensitive personal information that you voluntarily provide.
 
-Your tracking choice is saved in local storage, or in session storage if local storage is unavailable. Depending on your choice, the website may also use session storage to preserve the landing URL and prevent duplicate conversion-context captures.
+We use accessibility-related information solely to evaluate and coordinate accommodations and fulfill applicable legal obligations. Access is limited to individuals who reasonably need the information for these purposes. We may share necessary information with our venue, event hosts, service providers, or other individuals responsible for implementing an accommodation.
 
-### Newsletter and external forms
+We do not use accessibility request information for advertising or marketing purposes.
 
-The homepage embeds a newsletter subscription form provided by Brevo. The embed loads independently of the analytics choice; Brevo may receive technical request information when it loads. If you submit the form, the information you enter is sent to Brevo.
+## Information Sharing
 
-Badge purchases, event registrations, exhibitor applications, and volunteer forms are handled by external services, including Tabletop.Events and Google Forms. When you follow those links, information you submit is collected by the service hosting the form. This website does not process your badge payment details.
+We may disclose personal information to service providers, convention personnel, and other parties as reasonably necessary to operate TTGX, administer registrations and promotions, provide requested services, protect the safety of participants, or comply with applicable law.
 
-If you contact us by email, we receive the information you include in your message.
+We do not sell personal information in exchange for monetary compensation. We use third-party analytics and advertising measurement services that may receive online identifiers and website activity information. Depending on applicable law, certain disclosures may be considered selling or sharing personal information.
 
-## How We Use Information
+Visitors may disable optional tracking through the Your Privacy Choices link on our website.
 
-We use website analytics to understand visits and improve the site, and conversion-context information to measure campaigns and badge-checkout navigation. We do not sell personal information. Analytics and conversion identifiers and URLs are sent to the services described above for measurement.
+## Marketing Communications
 
-## Your Privacy Choices
+If you subscribe to our newsletter or otherwise agree to receive promotional communications, we may send you information about TTGX, upcoming events, promotions, and convention-related announcements.
 
-* **United States:** Visitors identified as being in the United States are not shown the dialog automatically; optional tracking is on by default. You can open **Your Privacy Choices** in the footer at any time to turn it off.
-* **Other countries or an unsuccessful country lookup:** Optional tracking stays off unless you choose to allow it.
-* **Global Privacy Control:** If your browser sends a Global Privacy Control signal, optional tracking is turned off.
+You may unsubscribe from promotional emails at any time using the unsubscribe link included in those communications. Unsubscribing does not prevent us from sending necessary communications regarding existing registrations, purchases, applications, or other transactions.
 
-The footer link opens the same controls to let you change your choice. These controls cover Google Tag Manager, the Meta Pixel, Metricool, and the conversion-context script. They do not control the Brevo newsletter embed or the privacy practices of external sites you visit.
+## Data Retention and Security
 
-For questions or to make a privacy request, contact **<a href="mailto:contact@ttgexpo.com" target="_blank">contact@ttgexpo.com</a>**. Requests will be handled as required by applicable law.
+We retain personal information for as long as reasonably necessary to fulfill the purposes described in this policy, administer our events, maintain appropriate business records, resolve disputes, and comply with legal obligations.
+
+We use reasonable administrative and technical safeguards designed to protect personal information against unauthorized access, disclosure, loss, or misuse. However, no method of electronic transmission or storage can be guaranteed to be completely secure.
+
+## Children's Privacy
+
+Our website is intended for a general audience and is not specifically directed to children under the age of 13. We do not knowingly collect personal information directly from children under 13 without appropriate parental or guardian consent.
+
+Parents and guardians should complete registrations and other personal information submissions on behalf of children under 13. If you believe a child has submitted personal information without appropriate consent, please contact us.
+
+## Privacy Requests
+
+Depending on applicable law, you may have rights regarding access to, correction of, deletion of, or restrictions on the use of your personal information.
+
+To submit a privacy request or ask a question about this policy, please contact us at contact@ttgexpo.com. We may take reasonable steps to verify your identity before fulfilling a request.
+
+## Changes to This Policy
+
+We may update this Privacy Policy periodically to reflect changes in our practices, services, or legal obligations. The most recent version will be published on our website with an updated revision date.
+
+**Last updated:** 11/23/2026

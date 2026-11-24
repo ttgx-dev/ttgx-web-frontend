@@ -5,6 +5,8 @@
   const landingUrlStorageKey = "ttgx-conversion-context-landing-url";
   const captureStorageKey = "ttgx-conversion-context-captured";
   const navigationWaitMs = 300;
+  const gaValueTimeoutMs = 1500;
+  const metaCookieWaitMs = 1000;
 
   function hasAnalyticsConsent() {
     return window.ttgxAnalyticsConsent === true;
@@ -29,7 +31,7 @@
       const timeout = window.setTimeout(() => {
         completed = true;
         resolve(undefined);
-      }, navigationWaitMs);
+      }, gaValueTimeoutMs);
 
       window.gtag("get", measurementId, field, (value) => {
         if (completed) return;
@@ -57,6 +59,47 @@
     return undefined;
   }
 
+  function waitForCookie(name, timeoutMs) {
+    const cookieValue = readCookie(name);
+    if (cookieValue) return Promise.resolve(cookieValue);
+
+    return new Promise((resolve) => {
+      let completed = false;
+      const timeout = window.setTimeout(() => {
+        completed = true;
+        resolve(undefined);
+      }, timeoutMs);
+
+      function checkCookie() {
+        if (completed) return;
+
+        const value = readCookie(name);
+        if (value) {
+          completed = true;
+          window.clearTimeout(timeout);
+          resolve(value);
+          return;
+        }
+
+        window.setTimeout(checkCookie, 50);
+      }
+
+      window.setTimeout(checkCookie, 50);
+    });
+  }
+
+  function getFbc(landingUrl) {
+    const cookieValue = readCookie("_fbc");
+    if (cookieValue) return cookieValue;
+
+    try {
+      const fbclid = new URL(landingUrl).searchParams.get("fbclid");
+      return fbclid ? `fb.1.${Date.now()}.${fbclid}` : undefined;
+    } catch {
+      return undefined;
+    }
+  }
+
   function getGa4ClientIdFromCookie() {
     const cookieValue = readCookie("_ga");
     const match = cookieValue && /^GA\d+\.\d+\.(\d+\.\d+)$/.exec(cookieValue);
@@ -77,12 +120,15 @@
     }
   }
 
-  async function saveCheckoutContext(landingUrl) {
+  async function saveCheckoutContext(landingUrl, waitForMetaPixelCookie = false) {
     if (!hasAnalyticsConsent()) return false;
 
     const measurementId = getGa4MeasurementId();
     let gaClientId = getGa4ClientIdFromCookie();
     let gaSessionId;
+    const fbpPromise = waitForMetaPixelCookie
+      ? waitForCookie("_fbp", metaCookieWaitMs)
+      : Promise.resolve(readCookie("_fbp"));
 
     if (measurementId && typeof window.gtag === "function") {
       const [gtagClientId, sessionId] = await Promise.all([
@@ -97,6 +143,7 @@
       gaSessionId = sessionId;
     }
 
+    const fbp = await fbpPromise;
     if (!hasAnalyticsConsent()) return false;
     if (!gaClientId) {
       console.warn("Skipping checkout context: no GA4 client ID found in the _ga cookie or gtag API");
@@ -116,8 +163,8 @@
       body: JSON.stringify({
         ga_client_id: gaClientId,
         ga_session_id: gaSessionId,
-        fbp: readCookie("_fbp"),
-        fbc: readCookie("_fbc"),
+        fbp,
+        fbc: getFbc(landingUrl),
         landing_url: landingUrl,
         event_source_url: pageUrl,
       }),
@@ -138,7 +185,7 @@
       console.warn("Could not track checkout context capture in session storage", error);
     }
 
-    void saveCheckoutContext(getJourneyLandingUrl())
+    void saveCheckoutContext(getJourneyLandingUrl(), true)
       .then((saved) => {
         if (!saved) shouldCapture = false;
       })
