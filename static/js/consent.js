@@ -123,9 +123,7 @@
 
     appendScript(
       "https://www.googletagmanager.com/gtm.js?id=GTM-NXPDNVJ9",
-      function () {
-        appendScript("/js/conversion-context.js");
-      },
+      null,
       function () {
         console.warn("Could not load Google Tag Manager");
       },
@@ -184,6 +182,9 @@
     initializeGoogleTagManager();
     initializeMetaPixel();
     initializeMetricool();
+    appendScript("/js/conversion-context.js", null, function () {
+      console.warn("Could not load conversion context tracking");
+    });
   }
 
   function stopAnalytics() {

@@ -57,6 +57,12 @@
     return undefined;
   }
 
+  function getGa4ClientIdFromCookie() {
+    const cookieValue = readCookie("_ga");
+    const match = cookieValue && /^GA\d+\.\d+\.(\d+\.\d+)$/.exec(cookieValue);
+    return match ? match[1] : undefined;
+  }
+
   function getJourneyLandingUrl() {
     try {
       const savedUrl = window.sessionStorage.getItem(landingUrlStorageKey);
@@ -75,22 +81,25 @@
     if (!hasAnalyticsConsent()) return false;
 
     const measurementId = getGa4MeasurementId();
-    if (!measurementId) {
-      console.warn("Skipping checkout context: no GA4 Measurement ID found in the loaded GTM configuration");
-      return false;
-    }
-    if (typeof window.gtag !== "function") {
-      console.warn("Skipping checkout context: the gtag API is unavailable");
-      return false;
+    let gaClientId = getGa4ClientIdFromCookie();
+    let gaSessionId;
+
+    if (measurementId && typeof window.gtag === "function") {
+      const [gtagClientId, sessionId] = await Promise.all([
+        gaClientId
+          ? Promise.resolve(undefined)
+          : getGa4Value(measurementId, "client_id"),
+        getGa4Value(measurementId, "session_id"),
+      ]);
+      if (gtagClientId && clientIdPattern.test(gtagClientId)) {
+        gaClientId = gtagClientId;
+      }
+      gaSessionId = sessionId;
     }
 
-    const [gaClientId, gaSessionId] = await Promise.all([
-      getGa4Value(measurementId, "client_id"),
-      getGa4Value(measurementId, "session_id"),
-    ]);
     if (!hasAnalyticsConsent()) return false;
     if (!gaClientId) {
-      console.warn("Skipping checkout context: GA4 did not return a client ID within 300 ms");
+      console.warn("Skipping checkout context: no GA4 client ID found in the _ga cookie or gtag API");
       return false;
     }
     if (!clientIdPattern.test(gaClientId)) {
