@@ -1,6 +1,6 @@
 (function () {
   const endpoint = "https://ttgx-conversion-correlator-3b22vat2gq-uc.a.run.app/api/conversion-context";
-  const clientIdPattern = /^GA\d(?:\.\d+){3}$/;
+  const clientIdPattern = /^\d+\.\d+$/;
   const measurementIdPattern = /^G-[A-Z0-9]+$/;
   const landingUrlStorageKey = "ttgx-conversion-context-landing-url";
   const captureStorageKey = "ttgx-conversion-context-captured";
