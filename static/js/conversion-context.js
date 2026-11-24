@@ -6,6 +6,10 @@
   const captureStorageKey = "ttgx-conversion-context-captured";
   const navigationWaitMs = 300;
 
+  function hasAnalyticsConsent() {
+    return window.ttgxAnalyticsConsent === true;
+  }
+
   function getGa4MeasurementId() {
     for (const command of window.dataLayer || []) {
       if (command && command[0] === "config"
@@ -68,6 +72,8 @@
   }
 
   async function saveCheckoutContext(landingUrl) {
+    if (!hasAnalyticsConsent()) return false;
+
     const measurementId = getGa4MeasurementId();
     if (!measurementId) {
       console.warn("Skipping checkout context: no GA4 Measurement ID found in the loaded GTM configuration");
@@ -82,6 +88,7 @@
       getGa4Value(measurementId, "client_id"),
       getGa4Value(measurementId, "session_id"),
     ]);
+    if (!hasAnalyticsConsent()) return false;
     if (!gaClientId) {
       console.warn("Skipping checkout context: GA4 did not return a client ID within 300 ms");
       return false;
@@ -159,7 +166,7 @@
   }
 
   document.addEventListener("click", (event) => {
-    if (event.defaultPrevented || event.button !== 0
+    if (!hasAnalyticsConsent() || event.defaultPrevented || event.button !== 0
       || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) {
       return;
     }

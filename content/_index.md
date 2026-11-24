@@ -10,7 +10,6 @@ description: An annual tabletop gaming convention featuring a large exhibit hall
     <link rel="stylesheet" href="/styles.css">
     <link rel="preconnect" href="https://assets.brevo.com" crossorigin="">
     <link rel="preconnect" href="https://bd3f8dd0.sibforms.com" crossorigin="">
-    <link rel="preconnect" href="https://tracker.metricool.com" crossorigin="">
 </head>
 
 {{< hextra/hero-headline >}}
