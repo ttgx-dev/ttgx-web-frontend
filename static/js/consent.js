@@ -303,11 +303,20 @@
     title.className = "ttgx-consent__title";
     title.id = "ttgx-consent-title";
 
+    const header = document.createElement("div");
+    header.className = "ttgx-consent__header";
+    const closeButton = createButton("×", "ttgx-consent__close", function () {
+      hideBanner();
+      if (settingsLink) settingsLink.focus({ preventScroll: true });
+    });
+    closeButton.setAttribute("aria-label", "Close privacy choices");
+    header.append(title, closeButton);
+
     message = document.createElement("div");
     actions = document.createElement("div");
     actions.className = "ttgx-consent__actions";
 
-    content.append(title, message, actions);
+    content.append(header, message, actions);
     banner.appendChild(content);
     document.body.appendChild(banner);
   }
